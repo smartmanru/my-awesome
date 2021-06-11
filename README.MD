@@ -11,13 +11,15 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-  - [M4](#m4)
+  - [Objective-J](#objective-j)
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
@@ -27,285 +29,372 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [VBA](#vba)
   - [Vim script](#vim-script)
-  - [Visual Basic](#visual-basic)
 
 ## AutoHotkey 
 
-- [overkill](https://github.com/xiaofen9/overkill) - Overwatch auto aiming
-- [AHKs](https://github.com/TLMcode/AHKs) - My AHK library
+- [xiaofen9/overkill](https://github.com/xiaofen9/overkill) - auto aiming
+- [TLMcode/AHKs](https://github.com/TLMcode/AHKs) - My AHK library
 
 ## C 
 
-- [cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
-- [libfuse-android](https://github.com/Vayu/libfuse-android) - libfuse patched to compile for android
-- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
-- [kilo](https://github.com/sureshsundriyal/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
-- [arp-scan](https://github.com/w-shackleton/arp-scan) - The ARP Scanner
-- [WireGuard-Scripts](https://github.com/SpryServers/WireGuard-Scripts) - 
-- [zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
-- [clog](https://github.com/S-trace/clog) - Android log colorizer
-- [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
-- [router_tproxy](https://github.com/phinfinity/router_tproxy) - Transparent Proxy configuration for DD-WRT router
-- [dd-wrt](https://github.com/lattera/dd-wrt) - 
-- [tg](https://github.com/vysheng/tg) - telegram-cli
-- [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
+- [Nun-z/RetroArch](https://github.com/Nun-z/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+- [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
+- [lewis-weinberger/rice](https://github.com/lewis-weinberger/rice) - a collection of rice configs
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
+- [Vayu/libfuse-android](https://github.com/Vayu/libfuse-android) - libfuse patched to compile for android
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [sureshsundriyal/kilo](https://github.com/sureshsundriyal/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
+- [w-shackleton/arp-scan](https://github.com/w-shackleton/arp-scan) - The ARP Scanner
+- [SpryServers/WireGuard-Scripts](https://github.com/SpryServers/WireGuard-Scripts) - 
+- [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+- [S-trace/clog](https://github.com/S-trace/clog) - Android log colorizer
+- [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
+- [phinfinity/router_tproxy](https://github.com/phinfinity/router_tproxy) - Transparent Proxy configuration for DD-WRT router
+- [lattera/dd-wrt](https://github.com/lattera/dd-wrt) - 
+- [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
+- [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 
 ## C# # 
 
-- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 ## C++ 
 
-- [tdesktop](https://github.com/Sea-n/tdesktop) - Unofficial Telegreat Messaging app
-- [itstelegram](https://github.com/itsumma/itstelegram) - Telegram Desktop messaging app
+- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [Sea-n/tdesktop](https://github.com/Sea-n/tdesktop) - Unofficial Telegreat Messaging app
+- [itsumma/itstelegram](https://github.com/itsumma/itstelegram) - Telegram Desktop messaging app
 
 ## CSS 
 
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [synergy-stable-builds](https://github.com/brahma-dev/synergy-stable-builds) - Downloads : https://brahma-dev.github.io/synergy-stable-builds/
+- [smartmanru/osctrl-docs](https://github.com/smartmanru/osctrl-docs) - Documentation for osctrl
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [brahma-dev/synergy-stable-builds](https://github.com/brahma-dev/synergy-stable-builds) - Downloads : https://brahma-dev.github.io/synergy-stable-builds/
 
 ## CoffeeScript 
 
-- [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku) - 本项目已删除
+- [521xueweihan/shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku) - 本项目已删除
+
+## Dockerfile 
+
+- [smartmanru/docker-proxy-rkn](https://github.com/smartmanru/docker-proxy-rkn) - Telegram bot proxy
 
 ## Go 
 
-- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [debos](https://github.com/go-debos/debos) - Debian OS builder
-- [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [docker-machine-vmwareworkstation](https://github.com/pecigonzalo/docker-machine-vmwareworkstation) - VMWare Workstation driver for Docker Machine https://github.com/docker/machine
-- [gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
-- [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
-- [xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
-- [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
-- [httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
+- [smartmanru/assh](https://github.com/smartmanru/assh) - :computer: make your ssh client smarter
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
+- [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [pecigonzalo/docker-machine-vmwareworkstation](https://github.com/pecigonzalo/docker-machine-vmwareworkstation) - VMWare Workstation driver for Docker Machine https://github.com/docker/machine
+- [fireeye/gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
+- [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
+- [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
+- [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
+- [gchaincl/httplab](https://github.com/gchaincl/httplab) - The interactive web server
 
 ## HTML 
 
-- [devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
-- [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
-- [krackattacks](https://github.com/vanhoefm/krackattacks) - 
-- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
+- [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
+- [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
+- [virtualmin/authentic-theme](https://github.com/virtualmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
+- [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
+- [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
+
+## Haskell 
+
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 ## Java 
 
-- [AdminToolsForTelegram](https://github.com/AlexMercier/AdminToolsForTelegram) - 
-- [SteamLinkBluetoothKeybordMouseCompanion](https://github.com/excelsi0r/SteamLinkBluetoothKeybordMouseCompanion) - Steam link Bluetooth controller Companion. Support for keyboard and mouse.
-- [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
-- [adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
-- [ProxyOn](https://github.com/ac-pm/ProxyOn) - Android Xposed Module to apply proxy for a specific app.
-- [openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
-- [Android-Simple-Bluetooth-Example](https://github.com/bauerjj/Android-Simple-Bluetooth-Example) - Simple Android Bluetooth example to turn on/off radio and to view and connect with devices. Has associated code to connect to an Arduino.
-- [ncalc](https://github.com/tranleduy2000/ncalc) - Power calculator for Android. Solve some problem algebra  and calculus.
-- [winrm4j](https://github.com/cloudsoft/winrm4j) - 
-- [AndroidScreencast](https://github.com/xSAVIKx/AndroidScreencast) - View and control your android device on PC
-- [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
-- [androrat](https://github.com/DesignativeDave/androrat) - Remote Administration Tool for Android devices
-- [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
-- [Android-TG-Bot](https://github.com/Sea-n/Android-TG-Bot) - Awesome Telegram Bot (Android Application)
-- [atlassian-apps](https://github.com/OpenSourceConsulting/atlassian-apps) - 
-- [android_app_efidroidmanager](https://github.com/efidroid/android_app_efidroidmanager) - Android App for installing and managing EFIDroid
-- [XVoiceChanger](https://github.com/Lyleaks/XVoiceChanger) - Instant messaging voice changer based on SoundTouch library and Xposed framework
-- [PC-Remote-Control](https://github.com/amanmj/PC-Remote-Control) - A telegram bot to remotely control anyone's PC remotely through your phone/PC.
-- [Mail-to-Telegram-resender](https://github.com/thevietto/Mail-to-Telegram-resender) - Simple email to telegram bot resender
-- [android_packages_apps_OmniSwitch](https://github.com/omnirom/android_packages_apps_OmniSwitch) - 
-- [Toggle-OmniSwitch](https://github.com/augustoicaro/Toggle-OmniSwitch) - App alternative to call omniswitch overlay with modify framework base
-- [frameworks_base](https://github.com/SOKP/frameworks_base) - 
+- [grishka/Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
+- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+- [AlexMercier/AdminToolsForTelegram](https://github.com/AlexMercier/AdminToolsForTelegram) - 
+- [excelsi0r/SteamLinkBluetoothKeybordMouseCompanion](https://github.com/excelsi0r/SteamLinkBluetoothKeybordMouseCompanion) - Steam link Bluetooth controller Companion. Support for keyboard and mouse.
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+- [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
+- [ac-pm/ProxyOn](https://github.com/ac-pm/ProxyOn) - Android Xposed Module to apply proxy for a specific app.
+- [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
+- [bauerjj/Android-Simple-Bluetooth-Example](https://github.com/bauerjj/Android-Simple-Bluetooth-Example) - Simple Android Bluetooth example to turn on/off radio and to view and connect with devices. Has associated code to connect to an Arduino.
+- [tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) - Power calculator for Android. Solve some problem algebra  and calculus.
+- [cloudsoft/winrm4j](https://github.com/cloudsoft/winrm4j) - 
+- [xSAVIKx/AndroidScreencast](https://github.com/xSAVIKx/AndroidScreencast) - View and control your android device on PC
+- [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
+- [DesignativeDave/androrat](https://github.com/DesignativeDave/androrat) - Remote Administration Tool for Android devices
+- [DVDAndroid/XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
+- [Sea-n/Android-TG-Bot](https://github.com/Sea-n/Android-TG-Bot) - Awesome Telegram Bot (Android Application)
+- [OpenSourceConsulting/atlassian-apps](https://github.com/OpenSourceConsulting/atlassian-apps) - 
+- [efidroid/android_app_efidroidmanager](https://github.com/efidroid/android_app_efidroidmanager) - Android App for installing and managing EFIDroid
+- [fatal0/XVoiceChanger](https://github.com/fatal0/XVoiceChanger) - Instant messaging voice changer based on SoundTouch library and Xposed framework
+- [amanmj/PC-Remote-Control](https://github.com/amanmj/PC-Remote-Control) - A telegram bot to remotely control anyone's PC remotely through your phone/PC.
+- [thevietto/Mail-to-Telegram-resender](https://github.com/thevietto/Mail-to-Telegram-resender) - Simple email to telegram bot resender
+- [augustoicaro/Toggle-OmniSwitch](https://github.com/augustoicaro/Toggle-OmniSwitch) - App alternative to call omniswitch overlay with modify framework base
+- [SOKP/frameworks_base](https://github.com/SOKP/frameworks_base) - 
 
 ## JavaScript 
 
-- [peter.sh](https://github.com/beverloo/peter.sh) - Source-code for http://peter.sh/.
-- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
-- [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
-- [streams-editor](https://github.com/finnp/streams-editor) - prototype editor for creating runnable network graphs
-- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation various web standards, for use with Node.js
-- [swell.sh](https://github.com/wcchoi/swell.sh) - Web-based Terminal for Bash designed for mobile with autocomplete suggestion & gesture typing keyboard
-- [Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [csssr-project-template](https://github.com/CSSSR/csssr-project-template) - :rocket: Шаблон проекта для быстрого старта.
-- [voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
-- [Volumio2](https://github.com/volumio/Volumio2) - Volumio 2 - Audiophile Music Player
-- [livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
-- [routemanager](https://github.com/tux-00/routemanager) - Manage routes to deal with overlapping networks.
-- [starcraft-sound-bot](https://github.com/AtNovember/starcraft-sound-bot) - Node.js sound bot for telegram, sended sounds from old StarCraft remastered game (Russian dubbing)
-- [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
-- [playkey-linux-monkeypatch](https://github.com/aoleg94/playkey-linux-monkeypatch) - 
-- [telegram.link](https://github.com/enricostara/telegram.link) - Telegram API library (javascript, node.js)
-- [instagram_likebot](https://github.com/get-a-clue/instagram_likebot) - Instagram like bot example
-- [intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
-- [botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
-- [ServerBot](https://github.com/kamikazechaser/ServerBot) - :bulb: A Telegram Bot For Checking Server Statistics And Information.
-- [ceit93bot-cli](https://github.com/Tabrizian/ceit93bot-cli) - Manage your telegram channel directly from CLI.
-- [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
-- [telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
+- [artlebedev/expromptum](https://github.com/artlebedev/expromptum) - Expromptum js library
+- [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Chrome / Brave extension to enhance bitclout.com pages
+- [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [joaomgcd/JoinDesktop](https://github.com/joaomgcd/JoinDesktop) - A desktop app for Join built in Electron
+- [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
+- [smartmanru/kepler.gl](https://github.com/smartmanru/kepler.gl) - 
+- [smartmanru/jquery-flexdatalist](https://github.com/smartmanru/jquery-flexdatalist) - Flexible input autocomplete/datalist plugin for jQuery
+- [smartmanru/puppeteer](https://github.com/smartmanru/puppeteer) - 
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [beverloo/peter.sh](https://github.com/beverloo/peter.sh) - Source-code for http://peter.sh/.
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
+- [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
+- [finnp/streams-editor](https://github.com/finnp/streams-editor) - prototype editor for creating runnable network graphs
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [wcchoi/swell.sh](https://github.com/wcchoi/swell.sh) - Web-based Terminal for Bash designed for mobile with autocomplete suggestion & gesture typing keyboard
+- [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+- [CSSSR/csssr-project-template](https://github.com/CSSSR/csssr-project-template) - [deprecated] Шаблон проекта для быстрого старта.
+- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+- [volumio/Volumio2](https://github.com/volumio/Volumio2) - Volumio 2 - Audiophile Music Player
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
+- [tux-00/routemanager](https://github.com/tux-00/routemanager) - Manage routes to deal with overlapping networks.
+- [AtNovember/starcraft-sound-bot](https://github.com/AtNovember/starcraft-sound-bot) - Node.js sound bot for telegram, sended sounds from old StarCraft remastered game (Russian dubbing)
+- [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
+- [aoleg94/playkey-linux-monkeypatch](https://github.com/aoleg94/playkey-linux-monkeypatch) - 
+- [enricostara/telegram.link](https://github.com/enricostara/telegram.link) - Telegram API library (javascript, node.js)
+- [get-a-clue/instagram_likebot](https://github.com/get-a-clue/instagram_likebot) - Instagram like bot example
+- [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
+- [botgram/botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
+- [kamikazechaser/ServerBot](https://github.com/kamikazechaser/ServerBot) - :bulb: A Telegram Bot For Checking Server Statistics And Information.
+- [Tabrizian/ceit93bot-cli](https://github.com/Tabrizian/ceit93bot-cli) - Manage your telegram channel directly from CLI.
+- [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
+- [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
 
 ## Kotlin 
 
-- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
-- [web-shell](https://github.com/second-constantine/web-shell) - Simple web-shell. Run on Java 1.8.
+- [Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
+- [pbreault/adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+- [second-constantine/web-shell](https://github.com/second-constantine/web-shell) - Simple web-shell. Run on Java 1.8.
 
 ## Lua 
 
-- [merbot](https://github.com/rizaumami/merbot) - Telegram Group Administration Bot
-- [F80](https://github.com/SPR-CPU-ORG/F80) - A Professional Telegram-Bot Based On valtman.name/telegram-cli
+- [rizaumami/merbot](https://github.com/rizaumami/merbot) - Telegram Group Administration Bot
+- [SPR-CPU-ORG/F80](https://github.com/SPR-CPU-ORG/F80) - A Professional Telegram-Bot Based On valtman.name/telegram-cli
 
-## M4 
+## Objective-J 
 
-- [udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges
+- [tdauth/wc3lib](https://github.com/tdauth/wc3lib) - A collection of libraries and tools which help to modify the game Warcraft III: The Frozen Throne.
 
 ## Others 
 
-- [vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB
-- [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
-- [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-- [angular-awesome-list](https://github.com/Angular-RU/angular-awesome-list) - Список ресурсов по Angular на русском
-- [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
-- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具)
-- [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
-- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [sysmon-dfir](https://github.com/MHaggis/sysmon-dfir) - Sources, configuration and how to detect evil things utilizing Microsoft Sysmon.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
-- [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
-- [awesome-vpn](https://github.com/udpsec/awesome-vpn) - 科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。
-- [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
-- [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
-- [yandex-speechkit-android](https://github.com/yandexmobile/yandex-speechkit-android) - Yandex SpeechKit for Android
-- [russian-bash-cheatsheet](https://github.com/drakulavich/russian-bash-cheatsheet) - PDF-шпаргалка по командам терминала и bash
-- [api](https://github.com/hhru/api) - HeadHunter API: документация и библиотеки
-- [z-i](https://github.com/zapret-info/z-i) - Register of Internet Addresses filtered in Russian Federation
-- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
+- [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
+- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+- [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [smartmanru/Androl4b](https://github.com/smartmanru/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
+- [smartmanru/sturdy-octo-barnacle](https://github.com/smartmanru/sturdy-octo-barnacle) - 
+- [smartmanru/banana-js](https://github.com/smartmanru/banana-js) - 
+- [smartmanru/bash-script-template](https://github.com/smartmanru/bash-script-template) - A best practices Bash script template with several useful functions
+- [smartmanru/RnnChatPrediction](https://github.com/smartmanru/RnnChatPrediction) - Предсказывает ответ пользователя на основании истории чатов
+- [smartmanru/search_pkg_cve](https://github.com/smartmanru/search_pkg_cve) - 
+- [smartmanru/bins](https://github.com/smartmanru/bins) - All smartmanru's bins
+- [smartmanru/pixelvisualcorecamera](https://github.com/smartmanru/pixelvisualcorecamera) - 
+- [smartmanru/hello-github-actions](https://github.com/smartmanru/hello-github-actions) - 
+- [smartmanru/awesome-shell](https://github.com/smartmanru/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [smartmanru/clash](https://github.com/smartmanru/clash) - A rule-based tunnel in Go.
+- [smartmanru/DeepFaceLab](https://github.com/smartmanru/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+- [smartmanru/tg_sharex](https://github.com/smartmanru/tg_sharex) - service for upload image/text/link/files via shareX to telegram
+- [smartmanru/sturdy-octo-barnacle1](https://github.com/smartmanru/sturdy-octo-barnacle1) - 
+- [smartmanru/awesome-alice](https://github.com/smartmanru/awesome-alice) - Библиотеки и ресурсы для Яндекс.Диалогов
+- [smartmanru/my-awesome](https://github.com/smartmanru/my-awesome) - 
+- [smartmanru/test](https://github.com/smartmanru/test) - 
+- [smartmanru/informer](https://github.com/smartmanru/informer) - A Telegram Mass Surveillance Bot in Python
+- [smartmanru/awesome-adb](https://github.com/smartmanru/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
+- [sameoldmadness/awesome-alice](https://github.com/sameoldmadness/awesome-alice) - Библиотеки и ресурсы для Яндекс.Диалогов
+- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+- [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
+- [Angular-RU/angular-awesome-list](https://github.com/Angular-RU/angular-awesome-list) - Список ресурсов по Angular на русском
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
+- [Juude/awesome-android-performance](https://github.com/Juude/awesome-android-performance) - Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具)
+- [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+- [MHaggis/sysmon-dfir](https://github.com/MHaggis/sysmon-dfir) - Sources, configuration and how to detect evil things utilizing Microsoft Sysmon.
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+- [udpsec/awesome-vpn](https://github.com/udpsec/awesome-vpn) - 科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。
+- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
+- [yandexmobile/yandex-speechkit-android](https://github.com/yandexmobile/yandex-speechkit-android) - Yandex SpeechKit for Android
+- [drakulavich/russian-bash-cheatsheet](https://github.com/drakulavich/russian-bash-cheatsheet) - PDF-шпаргалка по командам терминала и bash
+- [hhru/api](https://github.com/hhru/api) - HeadHunter API: документация и библиотеки
+- [zapret-info/z-i](https://github.com/zapret-info/z-i) - Register of Internet Addresses filtered in Russian Federation
+- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+- [abdelhai/awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
 
 ## PHP 
 
-- [imscp](https://github.com/i-MSCP/imscp) - i-MSCP Main Repository
-- [leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
-- [dns-rkn-mikrotic](https://github.com/maxvinza/dns-rkn-mikrotic) - Скрипты для автомотического внесения статических записей в dns-кэш микротика
-- [RoboCI](https://github.com/Codegyre/RoboCI) - virtualized environment runner for Continuous Integration servers
-- [dns-adblock](https://github.com/AndiDittrich/dns-adblock) - PHP based Converter to create dnsmasq and unbound compatible adblock lists
-- [jirawalker](https://github.com/rezon73/jirawalker) - 
-- [MyAddressBookBot](https://github.com/DanySpin97/MyAddressBookBot) - A Telegram Bot that works as an address book of usernames.
-- [telegram-bot-replytomail](https://github.com/HopeHumulusLupulus/telegram-bot-replytomail) - Telegram bot to send mail when a message containing a mail is answered. The attribute "to" of email is filled by email that is in body of reply message
+- [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+- [smartmanru/dbal](https://github.com/smartmanru/dbal) - Doctrine Database Abstraction Layer
+- [i-MSCP/imscp](https://github.com/i-MSCP/imscp) - i-MSCP Main Repository
+- [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
+- [maxvinza/dns-rkn-mikrotic](https://github.com/maxvinza/dns-rkn-mikrotic) - Скрипты для автомотического внесения статических записей в dns-кэш микротика
+- [Codegyre/RoboCI](https://github.com/Codegyre/RoboCI) - virtualized environment runner for Continuous Integration servers
+- [AndiDittrich/dns-adblock](https://github.com/AndiDittrich/dns-adblock) - PHP based Converter to create dnsmasq and unbound compatible adblock lists
+- [rezon73/jirawalker](https://github.com/rezon73/jirawalker) - 
+- [DanySpin97/MyAddressBookBot](https://github.com/DanySpin97/MyAddressBookBot) - A Telegram Bot that works as an address book of usernames.
+- [HopeHumulusLupulus/telegram-bot-replytomail](https://github.com/HopeHumulusLupulus/telegram-bot-replytomail) - Telegram bot to send mail when a message containing a mail is answered. The attribute "to" of email is filled by email that is in body of reply message
 
 ## Pascal 
 
-- [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
+- [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
 
 ## Perl 
 
-- [lnav-formats](https://github.com/PaulWay/lnav-formats) - Log format description files for lnav
-- [authentic-theme](https://github.com/authentic-theme/authentic-theme) - Official theme for the best server management panel of the 21st Century
+- [PaulWay/lnav-formats](https://github.com/PaulWay/lnav-formats) - Log format description files for lnav
 
 ## PowerShell 
 
-- [windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
+- [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 
 ## PureScript 
 
-- [pulp](https://github.com/purescript-contrib/pulp) - A build tool for PureScript projects
+- [purescript-contrib/pulp](https://github.com/purescript-contrib/pulp) - A build tool for PureScript projects
 
 ## Python 
 
-- [postman-patcher](https://github.com/nikandlv/postman-patcher) - Allows postman to render javascript in preview
-- [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
-- [apk-utilities](https://github.com/ViRb3/apk-utilities) - Tools and scripts to manipulate Android APKs
-- [marker](https://github.com/pindexis/marker) - The terminal command palette
-- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [opentfd](https://github.com/mediatube/opentfd) - Merges series of Telegram messages if there is a pause of less than 30 seconds between them  Inline draft-based Google Translator
-- [opentfd](https://github.com/kotwizkiy/opentfd) - Open Source Telegram (anti)flood daemon
-- [opentfd](https://github.com/SlavikMIPT/opentfd) - Opensource telegram flood daemon
-- [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
-- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
-- [OpenVPN-Config-Generator](https://github.com/Drewsif/OpenVPN-Config-Generator) - 
-- [mosmetro-python](https://github.com/mosmetro-android/mosmetro-python) - Скрипт для автоматической авторизации в сетях московского общественного транспорта
-- [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [pr0cks](https://github.com/n1nj4sec/pr0cks) - python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target
-- [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
-- [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine.
-- [tgstats](https://github.com/petrinm/tgstats) - Telegram Channel Statistic Generator
-- [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
-- [yapf](https://github.com/google/yapf) - A formatter for Python files
-- [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
-- [ownbot](https://github.com/michaelimfeld/ownbot) - Easy to use python module to create private telegram bots.
-- [email2telegram](https://github.com/egorvas/email2telegram) - Simple heroku button to configure bot which will sent emails to telegram
-- [telegram-bots](https://github.com/fmarotta/telegram-bots) - A set of bots to integrate Raspberry Pi management, email reading and rss feed updates within Telegram.
-- [sysmon](https://github.com/ssjunior/sysmon) - Monitoring system with alerting using Telegram, Pushbullet and email
-- [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
-- [teleGit](https://github.com/HeavenH/teleGit) - Telegram Bot in Python
-- [pockebot](https://github.com/Fillll/pockebot) - Read It Later for Telegram
-- [Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
-- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
+- [PurpleGray/telegram-google-calendar-bot](https://github.com/PurpleGray/telegram-google-calendar-bot) - Telegram bot for managing public google calendars for working chats. It has text recognition (by yandex api).
+- [aniketstark/STARK3.0](https://github.com/aniketstark/STARK3.0) - 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [friendly-telegram/modules-repo](https://github.com/friendly-telegram/modules-repo) - REPOSITORY MOVED
+- [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
+- [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
+- [nikandlv/postman-patcher](https://github.com/nikandlv/postman-patcher) - Allows postman to render javascript in preview
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+- [ViRb3/apk-utilities](https://github.com/ViRb3/apk-utilities) - 🛠 Tools and scripts to manipulate Android APKs
+- [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
+- [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
+- [mediatube/opentfd](https://github.com/mediatube/opentfd) - Merges series of Telegram messages if there is a pause of less than 30 seconds between them  Inline draft-based Google Translator
+- [SlavikMIPT/opentfd](https://github.com/SlavikMIPT/opentfd) - Opensource telegram flood daemon
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [fnzv/trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [Drewsif/OpenVPN-Config-Generator](https://github.com/Drewsif/OpenVPN-Config-Generator) - 
+- [mosmetro-android/mosmetro-python](https://github.com/mosmetro-android/mosmetro-python) - Скрипт для автоматической авторизации в сетях московского общественного транспорта
+- [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+- [indigo-dc/udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges
+- [n1nj4sec/pr0cks](https://github.com/n1nj4sec/pr0cks) - python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target
+- [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
+- [yukuku/telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine.
+- [petrinm/tgstats](https://github.com/petrinm/tgstats) - Telegram Channel Statistic Generator
+- [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
+- [google/yapf](https://github.com/google/yapf) - A formatter for Python files
+- [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
+- [michaelimfeld/ownbot](https://github.com/michaelimfeld/ownbot) - Easy to use python module to create private telegram bots.
+- [egorvas/email2telegram](https://github.com/egorvas/email2telegram) - Simple heroku button to configure bot which will sent emails to telegram
+- [fmarotta/telegram-bots](https://github.com/fmarotta/telegram-bots) - A set of bots to integrate Raspberry Pi management, email reading and rss feed updates within Telegram.
+- [ssjunior/sysmon](https://github.com/ssjunior/sysmon) - Monitoring system with alerting using Telegram, Pushbullet and email
+- [rahiel/telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
+- [HeavenH/teleGit](https://github.com/HeavenH/teleGit) - Telegram Bot in Python
+- [Fillll/pockebot](https://github.com/Fillll/pockebot) - Read It Later for Telegram
+- [ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 
 ## Ruby 
 
-- [HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability Scanner
-- [coupon-code](https://github.com/baxang/coupon-code) - Generate and validate coupon codes.
-- [autoparse](https://github.com/google/autoparse) - A dynamically generated parsing system using JSON Schema.
+- [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
+- [baxang/coupon-code](https://github.com/baxang/coupon-code) - Generate and validate coupon codes.
+- [google/autoparse](https://github.com/google/autoparse) - A dynamically generated parsing system using JSON Schema.
 
 ## Rust 
 
-- [boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
-- [rssbot](https://github.com/iovxw/rssbot) - 中文 Telegram RSS 机器人
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
+
+## Scala 
+
+- [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 
 ## Shell 
 
-- [bash-menu-generator](https://github.com/JamieCruwys/bash-menu-generator) - A simple bash script that will generate menus
-- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
-- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
-- [rice](https://github.com/lewis-weinberger/rice) - a collection of rice configs
-- [Unity](https://github.com/smartmanru/Unity) - 
-- [my-bash-config](https://github.com/frontdevops/my-bash-config) - My Shell configurations
-- [TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.sh 📲 to install Arch Linux in Amazon Fire, Android and Chromebook.  https://sdrausty.github.io/TermuxArch/docs/install
-- [wireguard-scripts](https://github.com/davidgross/wireguard-scripts) - Wireguard Scripts - Mirror
-- [wireguard-install](https://github.com/l-n-s/wireguard-install) - WireGuard VPN server installer
-- [3c-system-helper-magisk](https://github.com/Efreak/3c-system-helper-magisk) - 3c-system-helper
-- [awesome-android-scripts](https://github.com/danielgomezrico/awesome-android-scripts) - Simple scripts to make your life easier for android setups
-- [debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers
-- [ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - antigen with oh-my-zsh, powerlevel9k theme, fzf, autosuggestions, syntax-highlighting
-- [shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
-- [web-development](https://github.com/nicothin/web-development) - Инструменты, настройки, шпаргалки, для веб-технолога
-- [lazyflasher](https://github.com/jcadduono/lazyflasher) - An easy way to patch ramdisks, replace kernels, and install files to your phone through recovery.
-- [scripts](https://github.com/akhilnarang/scripts) - 
-- [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
-- [android-binaries](https://github.com/jakev/android-binaries) - Binaries compiled for ARM
-- [bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
-- [AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.
-- [ddwrt-scripts](https://github.com/scottsperry/ddwrt-scripts) - scripts for use in conjunction with dd-wrt
-- [dd-wrt-openvpn-config-creator](https://github.com/LiquidVPN-inc/dd-wrt-openvpn-config-creator) - Create DD-WRT OpenVPN Configurations for virtually all VPN services that rely on username and password to connect.
-- [dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
-- [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
-- [is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
+- [bitclout/run](https://github.com/bitclout/run) - Run your own BitClout node
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 and 7 Actions
+- [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+- [edoardottt/HackerRank-LinuxShell](https://github.com/edoardottt/HackerRank-LinuxShell) - HackerRank-LinuxShell Solutions :computer:
+- [xuxinkun/littleTools](https://github.com/xuxinkun/littleTools) - A set of short commands used to make the input of some commands simple.
+- [wk8/knife-bash-autocomplete](https://github.com/wk8/knife-bash-autocomplete) - Add or source that file in your bash profile to enable sensible completion for Chef's knife command.
+- [samlaudev/ConfigurationFiles](https://github.com/samlaudev/ConfigurationFiles) - configuration files, such as repo (download android source file)、.git-completion.bash(git autocomplete bash)
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) - Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP
+- [smartmanru/nginx-admins-handbook](https://github.com/smartmanru/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
+- [hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
+- [JamieCruwys/bash-menu-generator](https://github.com/JamieCruwys/bash-menu-generator) - A simple bash script that will generate menus
+- [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
+- [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [smartmanru/Unity](https://github.com/smartmanru/Unity) - 
+- [frontdevops/my-bash-config](https://github.com/frontdevops/my-bash-config) - My Shell configurations
+- [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
+- [davidgross/wireguard-scripts](https://github.com/davidgross/wireguard-scripts) - Wireguard Scripts - Mirror
+- [l-n-s/wireguard-install](https://github.com/l-n-s/wireguard-install) - WireGuard VPN server installer
+- [Efreak/3c-system-helper-magisk](https://github.com/Efreak/3c-system-helper-magisk) - 3c-system-helper
+- [danielgomezrico/awesome-android-scripts](https://github.com/danielgomezrico/awesome-android-scripts) - Simple scripts to make your life easier for android setups
+- [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
+- [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
+- [nicothin/web-development](https://github.com/nicothin/web-development) - Инструменты, настройки, шпаргалки, для веб-технолога
+- [jcadduono/lazyflasher](https://github.com/jcadduono/lazyflasher) - An easy way to patch ramdisks, replace kernels, and install files to your phone through recovery.
+- [akhilnarang/scripts](https://github.com/akhilnarang/scripts) - 
+- [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
+- [jakev/android-binaries](https://github.com/jakev/android-binaries) - Binaries compiled for ARM
+- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
+- [htpcBeginner/AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.
+- [scottsperry/ddwrt-scripts](https://github.com/scottsperry/ddwrt-scripts) - scripts for use in conjunction with dd-wrt
+- [LiquidVPN-inc/dd-wrt-openvpn-config-creator](https://github.com/LiquidVPN-inc/dd-wrt-openvpn-config-creator) - Create DD-WRT OpenVPN Configurations for virtually all VPN services that rely on username and password to connect.
+- [trevorndodds/dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
+- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [doortts/is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
 
 ## TypeScript 
 
-- [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
-- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [bitclout/frontend](https://github.com/bitclout/frontend) - bitclout.com frontend
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+
+## VBA 
+
+- [langmf/langmf](https://github.com/langmf/langmf) - Скриптовый язык программирования LangMF работает на движке VBScript, Javascript, Chakra, VB.NET, C#.
 
 ## Vim script 
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
-
-## Visual Basic 
-
-- [langmf](https://github.com/langmf/langmf) - Скриптовый язык программирования LangMF работает на движке VBScript, Javascript, Chakra, VB.NET, C#.
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 
 
 ## License
