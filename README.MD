@@ -303,7 +303,7 @@
 - [Drewsif/OpenVPN-Config-Generator](https://github.com/Drewsif/OpenVPN-Config-Generator) - 
 - [mosmetro-android/mosmetro-python](https://github.com/mosmetro-android/mosmetro-python) - Скрипт для автоматической авторизации в сетях московского общественного транспорта
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [indigo-dc/udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges
+- [indigo-dc/udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
 - [n1nj4sec/pr0cks](https://github.com/n1nj4sec/pr0cks) - python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [yukuku/telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine.
