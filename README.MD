@@ -140,7 +140,7 @@
 ## JavaScript 
 
 - [artlebedev/expromptum](https://github.com/artlebedev/expromptum) - Expromptum js library
-- [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Chrome / Brave extension to enhance bitclout.com pages
+- [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Browser extension that enhances BitClout pages
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [joaomgcd/JoinDesktop](https://github.com/joaomgcd/JoinDesktop) - A desktop app for Join built in Electron
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
