@@ -145,6 +145,7 @@
 - [joaomgcd/JoinDesktop](https://github.com/joaomgcd/JoinDesktop) - A desktop app for Join built in Electron
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
 - [smartmanru/kepler.gl](https://github.com/smartmanru/kepler.gl) - 
 - [smartmanru/jquery-flexdatalist](https://github.com/smartmanru/jquery-flexdatalist) - Flexible input autocomplete/datalist plugin for jQuery
@@ -384,7 +385,6 @@
 ## TypeScript 
 
 - [bitclout/frontend](https://github.com/bitclout/frontend) - bitclout.com frontend
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 
