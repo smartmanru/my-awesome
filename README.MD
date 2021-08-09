@@ -95,7 +95,7 @@
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
 - [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
-- [gchaincl/httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 
 ## HTML 
 
