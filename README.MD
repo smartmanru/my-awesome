@@ -284,6 +284,7 @@
 
 ## Python 
 
+- [hyper-dominic/UltroidBot](https://github.com/hyper-dominic/UltroidBot) - 
 - [PurpleGray/telegram-google-calendar-bot](https://github.com/PurpleGray/telegram-google-calendar-bot) - Telegram bot for managing public google calendars for working chats. It has text recognition (by yandex api).
 - [aniketstark/STARK3.0](https://github.com/aniketstark/STARK3.0) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
