@@ -139,6 +139,7 @@
 
 ## JavaScript 
 
+- [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [artlebedev/expromptum](https://github.com/artlebedev/expromptum) - Expromptum js library
 - [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Browser extension that enhances BitClout pages
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
@@ -284,6 +285,7 @@
 
 ## Python 
 
+- [chinuno-usami/CuteR](https://github.com/chinuno-usami/CuteR) - 
 - [hyper-dominic/UltroidBot](https://github.com/hyper-dominic/UltroidBot) - 
 - [PurpleGray/telegram-google-calendar-bot](https://github.com/PurpleGray/telegram-google-calendar-bot) - Telegram bot for managing public google calendars for working chats. It has text recognition (by yandex api).
 - [aniketstark/STARK3.0](https://github.com/aniketstark/STARK3.0) - 
