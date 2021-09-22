@@ -91,7 +91,7 @@
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [pecigonzalo/docker-machine-vmwareworkstation](https://github.com/pecigonzalo/docker-machine-vmwareworkstation) - VMWare Workstation driver for Docker Machine https://github.com/docker/machine
-- [fireeye/gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
+- [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
 - [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
@@ -199,6 +199,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -345,7 +346,7 @@
 
 ## Shell 
 
-- [bitclout/run](https://github.com/bitclout/run) - Run your own BitClout node
+- [deso-protocol/run](https://github.com/deso-protocol/run) - Run your own DeSo node
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 and 7 Actions
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
@@ -387,7 +388,7 @@
 
 ## TypeScript 
 
-- [bitclout/frontend](https://github.com/bitclout/frontend) - bitclout.com frontend
+- [deso-protocol/frontend](https://github.com/deso-protocol/frontend) - DeSo frontend
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 
