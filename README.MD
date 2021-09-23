@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with TUI window manager and multi-party session sharing
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [Sea-n/tdesktop](https://github.com/Sea-n/tdesktop) - Unofficial Telegreat Messaging app
 - [itsumma/itstelegram](https://github.com/itsumma/itstelegram) - Telegram Desktop messaging app
@@ -139,6 +140,8 @@
 
 ## JavaScript 
 
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [artlebedev/expromptum](https://github.com/artlebedev/expromptum) - Expromptum js library
 - [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Browser extension that enhances BitClout pages
@@ -148,8 +151,6 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
-- [smartmanru/kepler.gl](https://github.com/smartmanru/kepler.gl) - 
-- [smartmanru/jquery-flexdatalist](https://github.com/smartmanru/jquery-flexdatalist) - Flexible input autocomplete/datalist plugin for jQuery
 - [smartmanru/puppeteer](https://github.com/smartmanru/puppeteer) - 
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
 - [beverloo/peter.sh](https://github.com/beverloo/peter.sh) - Source-code for http://peter.sh/.
@@ -199,6 +200,7 @@
 
 ## Others 
 
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
@@ -258,7 +260,6 @@
 
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
-- [smartmanru/dbal](https://github.com/smartmanru/dbal) - Doctrine Database Abstraction Layer
 - [i-MSCP/imscp](https://github.com/i-MSCP/imscp) - i-MSCP Main Repository
 - [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
 - [maxvinza/dns-rkn-mikrotic](https://github.com/maxvinza/dns-rkn-mikrotic) - Скрипты для автомотического внесения статических записей в dns-кэш микротика
@@ -286,6 +287,9 @@
 
 ## Python 
 
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [mariosemes/PornHub-downloader-python](https://github.com/mariosemes/PornHub-downloader-python) - Download stuff from PH the easy way.
+- [Telegram-Bot-FAQ/FAQ](https://github.com/Telegram-Bot-FAQ/FAQ) - Русскоязычный краудсорсинговый проект помощи начинающим разработчикам Telegram ботов
 - [chinuno-usami/CuteR](https://github.com/chinuno-usami/CuteR) - 
 - [hyper-dominic/UltroidBot](https://github.com/hyper-dominic/UltroidBot) - 
 - [PurpleGray/telegram-google-calendar-bot](https://github.com/PurpleGray/telegram-google-calendar-bot) - Telegram bot for managing public google calendars for working chats. It has text recognition (by yandex api).
@@ -364,7 +368,6 @@
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
-- [smartmanru/Unity](https://github.com/smartmanru/Unity) - 
 - [frontdevops/my-bash-config](https://github.com/frontdevops/my-bash-config) - My Shell configurations
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [davidgross/wireguard-scripts](https://github.com/davidgross/wireguard-scripts) - Wireguard Scripts - Mirror
@@ -388,6 +391,7 @@
 
 ## TypeScript 
 
+- [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 - [deso-protocol/frontend](https://github.com/deso-protocol/frontend) - DeSo frontend
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
