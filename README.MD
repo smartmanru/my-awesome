@@ -17,6 +17,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Objective-J](#objective-j)
@@ -140,6 +141,7 @@
 
 ## JavaScript 
 
+- [diced/github-readme-stats](https://github.com/diced/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
@@ -183,6 +185,10 @@
 - [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 - [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
 
+## Jupyter Notebook 
+
+- [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
+
 ## Kotlin 
 
 - [Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
@@ -200,6 +206,7 @@
 
 ## Others 
 
+- [yoksel/common-words](https://github.com/yoksel/common-words) - 🧐 Слова, часто используемые в CSS-классах
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
@@ -391,6 +398,7 @@
 
 ## TypeScript 
 
+- [diced/zipline](https://github.com/diced/zipline) - Zipline is a ShareX/file upload server that is easy to use, packed with features and can be setup in one command!
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 - [deso-protocol/frontend](https://github.com/deso-protocol/frontend) - DeSo frontend
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird and many other pieces of software.
