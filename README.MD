@@ -141,9 +141,11 @@
 
 ## JavaScript 
 
+- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
+- [Binaryify/vue-qr](https://github.com/Binaryify/vue-qr) - The Vue 2.x Component for Awesome-qr.js
+- [SumiMakito/Awesome-qr.js](https://github.com/SumiMakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
 - [diced/github-readme-stats](https://github.com/diced/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [artlebedev/expromptum](https://github.com/artlebedev/expromptum) - Expromptum js library
 - [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Browser extension that enhances BitClout pages
@@ -206,6 +208,7 @@
 
 ## Others 
 
+- [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [yoksel/common-words](https://github.com/yoksel/common-words) - 🧐 Слова, часто используемые в CSS-классах
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -294,6 +297,8 @@
 
 ## Python 
 
+- [Tishka17/aiogram_dialog](https://github.com/Tishka17/aiogram_dialog) - GUI framework on top of aiogram
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [mariosemes/PornHub-downloader-python](https://github.com/mariosemes/PornHub-downloader-python) - Download stuff from PH the easy way.
 - [Telegram-Bot-FAQ/FAQ](https://github.com/Telegram-Bot-FAQ/FAQ) - Русскоязычный краудсорсинговый проект помощи начинающим разработчикам Telegram ботов
