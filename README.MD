@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [Binaryify/vue-qr](https://github.com/Binaryify/vue-qr) - The Vue 2.x Component for Awesome-qr.js
 - [SumiMakito/Awesome-qr.js](https://github.com/SumiMakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
@@ -297,6 +298,7 @@
 
 ## Python 
 
+- [nithinmurali/pygsheets](https://github.com/nithinmurali/pygsheets) - Google Sheets Python API v4
 - [Tishka17/aiogram_dialog](https://github.com/Tishka17/aiogram_dialog) - GUI framework on top of aiogram
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
