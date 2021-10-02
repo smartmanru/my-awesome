@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [ru-python-beginners/faq](https://github.com/ru-python-beginners/faq) - Русскоязычный краудсорсинговый проект помощи начинающим python разработчикам
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [yoksel/common-words](https://github.com/yoksel/common-words) - 🧐 Слова, часто используемые в CSS-классах
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
@@ -417,7 +418,7 @@
 
 ## Vim script 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 
 ## License
