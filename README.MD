@@ -35,6 +35,7 @@
   - [TypeScript](#typescript)
   - [VBA](#vba)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## AutoHotkey 
 
@@ -143,7 +144,6 @@
 
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
-- [Binaryify/vue-qr](https://github.com/Binaryify/vue-qr) - The Vue 2.x Component for Awesome-qr.js
 - [SumiMakito/Awesome-qr.js](https://github.com/SumiMakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
 - [diced/github-readme-stats](https://github.com/diced/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -419,6 +419,10 @@
 ## Vim script 
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+
+## Vue 
+
+- [Binaryify/vue-qr](https://github.com/Binaryify/vue-qr) - The Vue 2.x Component for Awesome-qr.js
 
 
 ## License
