@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [ru-python-beginners/faq](https://github.com/ru-python-beginners/faq) - Русскоязычный краудсорсинговый проект помощи начинающим python разработчикам
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [yoksel/common-words](https://github.com/yoksel/common-words) - 🧐 Слова, часто используемые в CSS-классах
