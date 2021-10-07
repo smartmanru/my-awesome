@@ -20,6 +20,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Objective-C](#objective-c)
   - [Objective-J](#objective-j)
   - [Others](#others)
   - [PHP](#php)
@@ -35,6 +36,7 @@
   - [TypeScript](#typescript)
   - [VBA](#vba)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## AutoHotkey 
 
@@ -142,6 +144,8 @@
 
 ## JavaScript 
 
+- [jolaleye/altr](https://github.com/jolaleye/altr) - :wrench: Transform your images, videos, and audio with ease
+- [jolaleye/altr-api](https://github.com/jolaleye/altr-api) - :wrench: (API) Transform your images, videos, and audio with ease
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
@@ -205,12 +209,17 @@
 - [rizaumami/merbot](https://github.com/rizaumami/merbot) - Telegram Group Administration Bot
 - [SPR-CPU-ORG/F80](https://github.com/SPR-CPU-ORG/F80) - A Professional Telegram-Bot Based On valtman.name/telegram-cli
 
+## Objective-C 
+
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+
 ## Objective-J 
 
 - [tdauth/wc3lib](https://github.com/tdauth/wc3lib) - A collection of libraries and tools which help to modify the game Warcraft III: The Frozen Throne.
 
 ## Others 
 
+- [gonzula/rows](https://github.com/gonzula/rows) - A common, beautiful interface to tabular data, no matter the format
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [ru-python-beginners/faq](https://github.com/ru-python-beginners/faq) - Русскоязычный краудсорсинговый проект помощи начинающим python разработчикам
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
@@ -369,6 +378,7 @@
 
 ## Shell 
 
+- [bilyboy785/seedbox-compose](https://github.com/bilyboy785/seedbox-compose) - A complete script to deploy Seedbox with Docker fully automated !
 - [deso-protocol/run](https://github.com/deso-protocol/run) - Run your own DeSo node
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 and 7 Actions
@@ -425,6 +435,10 @@
 ## Vim script 
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+
+## Vue 
+
+- [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 
 
 ## License
