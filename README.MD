@@ -219,6 +219,7 @@
 
 ## Others 
 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
 - [gonzula/rows](https://github.com/gonzula/rows) - A common, beautiful interface to tabular data, no matter the format
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
@@ -312,6 +313,7 @@
 
 ## Python 
 
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Pluggable Telethon - Telegram UserBot
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [nithinmurali/pygsheets](https://github.com/nithinmurali/pygsheets) - Google Sheets Python API v4
