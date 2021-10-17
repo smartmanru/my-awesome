@@ -35,6 +35,7 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [VBA](#vba)
+  - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -68,6 +69,7 @@
 
 ## C++ 
 
+- [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with TUI window manager and multi-party session sharing
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [Sea-n/tdesktop](https://github.com/Sea-n/tdesktop) - Unofficial Telegreat Messaging app
@@ -104,6 +106,7 @@
 
 ## HTML 
 
+- [vikdiesel/admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard) - Admin One HTML — Free Bulma Admin Dashboard Template (HTML + CSS/SCSS)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
@@ -314,6 +317,8 @@
 
 ## Python 
 
+- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
+- [aiogram/bot](https://github.com/aiogram/bot) - This bot is used as example of usage aiogram framework and as admin-helper in our community chats.
 - [vkbottle/vkbottle](https://github.com/vkbottle/vkbottle) - Сustomizable asynchronous VK API framework
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Pluggable Telethon - Telegram UserBot
@@ -428,6 +433,7 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [Yoctol/messaging-apis](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [diced/zipline](https://github.com/diced/zipline) - Zipline is a ShareX/file upload server that is easy to use, packed with features and can be setup in one command!
@@ -438,7 +444,11 @@
 
 ## VBA 
 
-- [langmf/langmf](https://github.com/langmf/langmf) - Скриптовый язык программирования LangMF работает на движке VBScript, Javascript, Chakra, VB.NET, C#.
+- [langmf/langmf](https://github.com/langmf/langmf) - The LangMF scripting language runs on the engine - VBScript, JavaScript, Chakra, VB.NET, C#.
+
+## Vala 
+
+- [elementary/terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS
 
 ## Vim script 
 
