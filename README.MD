@@ -46,6 +46,7 @@
 
 ## C 
 
+- [containers/quadlet](https://github.com/containers/quadlet) - 
 - [Nun-z/RetroArch](https://github.com/Nun-z/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [billziss-gh/sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [lewis-weinberger/rice](https://github.com/lewis-weinberger/rice) - a collection of rice configs
@@ -69,6 +70,7 @@
 
 ## C++ 
 
+- [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - Unofficial Telegram Desktop (Windows 64bit/x64)
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with TUI window manager and multi-party session sharing
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
