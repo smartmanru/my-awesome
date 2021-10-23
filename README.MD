@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [smartmanru/assh](https://github.com/smartmanru/assh) - :computer: make your ssh client smarter
@@ -320,6 +321,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [aiogram/bot](https://github.com/aiogram/bot) - This bot is used as example of usage aiogram framework and as admin-helper in our community chats.
 - [vkbottle/vkbottle](https://github.com/vkbottle/vkbottle) - Сustomizable asynchronous VK API framework
