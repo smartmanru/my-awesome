@@ -300,7 +300,7 @@
 - [Codegyre/RoboCI](https://github.com/Codegyre/RoboCI) - virtualized environment runner for Continuous Integration servers
 - [AndiDittrich/dns-adblock](https://github.com/AndiDittrich/dns-adblock) - PHP based Converter to create dnsmasq and unbound compatible adblock lists
 - [rezon73/jirawalker](https://github.com/rezon73/jirawalker) - 
-- [DanySpin97/MyAddressBookBot](https://github.com/DanySpin97/MyAddressBookBot) - A Telegram Bot that works as an address book of usernames.
+- [danyspin97/MyAddressBookBot](https://github.com/danyspin97/MyAddressBookBot) - A Telegram Bot that works as an address book of usernames.
 - [HopeHumulusLupulus/telegram-bot-replytomail](https://github.com/HopeHumulusLupulus/telegram-bot-replytomail) - Telegram bot to send mail when a message containing a mail is answered. The attribute "to" of email is filled by email that is in body of reply message
 
 ## Pascal 
