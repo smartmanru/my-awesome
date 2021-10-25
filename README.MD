@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
@@ -225,6 +226,8 @@
 
 ## Others 
 
+- [comictomcat/awesome-aiogram](https://github.com/comictomcat/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources
+- [sfx101/awesome-docker](https://github.com/sfx101/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [smartmanru/aiogram](https://github.com/smartmanru/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -321,6 +324,8 @@
 
 ## Python 
 
+- [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
+- [civsocit/olgram](https://github.com/civsocit/olgram) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [aiogram/bot](https://github.com/aiogram/bot) - This bot is used as example of usage aiogram framework and as admin-helper in our community chats.
@@ -395,6 +400,7 @@
 
 ## Shell 
 
+- [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [bilyboy785/seedbox-compose](https://github.com/bilyboy785/seedbox-compose) - A complete script to deploy Seedbox with Docker fully automated !
 - [deso-protocol/run](https://github.com/deso-protocol/run) - Run your own DeSo node
