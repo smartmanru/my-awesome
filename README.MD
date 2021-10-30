@@ -327,6 +327,7 @@
 
 ## Python 
 
+- [qsniyg/rssit](https://github.com/qsniyg/rssit) - RSS Feed Generator
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
 - [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
 - [civsocit/olgram](https://github.com/civsocit/olgram) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor.
