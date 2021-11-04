@@ -95,6 +95,8 @@
 
 ## Go 
 
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+- [inCaller/prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 - [slok/alertgram](https://github.com/slok/alertgram) - Easy and simple prometheus alertmanager alerts on telegram
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
@@ -128,6 +130,7 @@
 
 ## Java 
 
+- [LonamiWebs/Stringlate](https://github.com/LonamiWebs/Stringlate) - Android application to help in strings.xml translation
 - [grishka/Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [AlexMercier/AdminToolsForTelegram](https://github.com/AlexMercier/AdminToolsForTelegram) - 
@@ -234,6 +237,7 @@
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [comictomcat/awesome-aiogram](https://github.com/comictomcat/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources
 - [sfx101/awesome-docker](https://github.com/sfx101/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [smartmanru/aiogram](https://github.com/smartmanru/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
@@ -332,6 +336,8 @@
 
 ## Python 
 
+- [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
+- [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
 - [qsniyg/rssit](https://github.com/qsniyg/rssit) - RSS Feed Generator
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
 - [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
@@ -410,6 +416,7 @@
 
 ## Shell 
 
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins.
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [bilyboy785/seedbox-compose](https://github.com/bilyboy785/seedbox-compose) - A complete script to deploy Seedbox with Docker fully automated !
