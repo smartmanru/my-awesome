@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [musicman3/eMarket](https://github.com/musicman3/eMarket) - eMarket Online Store. It is a free online store engine. Make the best online shop with us. Join our Open Source community. Together we will make the best free e-commerce solution.
 - [albertincx/formatbot1](https://github.com/albertincx/formatbot1) - Make instant view easily and fast, from any article on the internet in the best messenger ever Telegram
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jolaleye/altr](https://github.com/jolaleye/altr) - :wrench: Transform your images, videos, and audio with ease
@@ -417,6 +418,7 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins.
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
