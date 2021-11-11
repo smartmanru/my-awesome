@@ -238,6 +238,7 @@
 
 ## Others 
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [comictomcat/awesome-aiogram](https://github.com/comictomcat/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources
 - [sfx101/awesome-docker](https://github.com/sfx101/awesome-docker) - :whale: A curated list of Docker resources and projects
