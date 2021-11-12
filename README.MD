@@ -338,6 +338,7 @@
 
 ## Python 
 
+- [MasterGroosha/telegram-stats-demo](https://github.com/MasterGroosha/telegram-stats-demo) - [зеркало с GitLab] Тестовый бот со сбором статистики (InfluxDB + Grafana)
 - [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
 - [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
 - [qsniyg/rssit](https://github.com/qsniyg/rssit) - RSS Feed Generator
