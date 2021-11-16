@@ -35,6 +35,7 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [TSQL](#tsql)
   - [TypeScript](#typescript)
   - [VBA](#vba)
   - [Vala](#vala)
@@ -475,6 +476,10 @@
 - [trevorndodds/dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [doortts/is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
+
+## TSQL 
+
+- [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
 ## TypeScript 
 
