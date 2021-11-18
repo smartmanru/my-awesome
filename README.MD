@@ -246,6 +246,7 @@
 
 ## Others 
 
+- [mramorok/TGPars](https://github.com/mramorok/TGPars) - Free Telegram spamer, inviter and parser
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [zhashkevych/awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -360,7 +361,7 @@
 - [aiogram/bot](https://github.com/aiogram/bot) - This bot is used as example of usage aiogram framework and as admin-helper in our community chats.
 - [vkbottle/vkbottle](https://github.com/vkbottle/vkbottle) - Сustomizable asynchronous VK API framework
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Pluggable Telethon - Telegram UserBot
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Multi-Featured Telegram Userbot, Built in Python.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [nithinmurali/pygsheets](https://github.com/nithinmurali/pygsheets) - Google Sheets Python API v4
