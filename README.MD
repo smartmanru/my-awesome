@@ -49,6 +49,7 @@
 
 ## C 
 
+- [drscream/fiche](https://github.com/drscream/fiche) - Command line pastebin for sharing terminal output.
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
 - [containers/quadlet](https://github.com/containers/quadlet) - 
 - [Nun-z/RetroArch](https://github.com/Nun-z/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
