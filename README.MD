@@ -379,6 +379,7 @@
 - [friendly-telegram/modules-repo](https://github.com/friendly-telegram/modules-repo) - REPOSITORY MOVED
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
+- [hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
 - [nikandlv/postman-patcher](https://github.com/nikandlv/postman-patcher) - Allows postman to render javascript in preview
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -455,7 +456,6 @@
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) - Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP
 - [smartmanru/nginx-admins-handbook](https://github.com/smartmanru/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
-- [hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
 - [JamieCruwys/bash-menu-generator](https://github.com/JamieCruwys/bash-menu-generator) - A simple bash script that will generate menus
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
