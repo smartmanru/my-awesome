@@ -161,6 +161,7 @@
 
 ## JavaScript 
 
+- [joker314/UrgentMod](https://github.com/joker314/UrgentMod) - A Discord moderation bot which uses the community to ban users when the moderators are away.
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [musicman3/eMarket](https://github.com/musicman3/eMarket) - eMarket Online Store. It is a free online store engine. Make the best online shop with us. Join our Open Source community. Together we will make the best free e-commerce solution.
 - [albertincx/formatbot1](https://github.com/albertincx/formatbot1) - Make instant view easily and fast, from any article on the internet in the best messenger ever Telegram
@@ -247,6 +248,7 @@
 
 ## Others 
 
+- [lihaoyun6/PD-Runner](https://github.com/lihaoyun6/PD-Runner) - A VM launcher for Parallels Desktop
 - [mramorok/TGPars](https://github.com/mramorok/TGPars) - Free Telegram spamer, inviter and parser
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [zhashkevych/awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
@@ -350,6 +352,7 @@
 
 ## Python 
 
+- [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
 - [MasterGroosha/telegram-stats-demo](https://github.com/MasterGroosha/telegram-stats-demo) - [зеркало с GitLab] Тестовый бот со сбором статистики (InfluxDB + Grafana)
 - [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
 - [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
@@ -433,6 +436,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DevOps / DBA / Analytics / performance engineering. Google BigQuery ML machine learning classification.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 600+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...
 - [hagenw/is.sh](https://github.com/hagenw/is.sh) - Human readable conditions for bash
