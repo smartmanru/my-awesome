@@ -17,6 +17,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -123,7 +124,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
-- [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 - [virtualmin/authentic-theme](https://github.com/virtualmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
@@ -214,6 +214,10 @@
 - [Tabrizian/ceit93bot-cli](https://github.com/Tabrizian/ceit93bot-cli) - Manage your telegram channel directly from CLI.
 - [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 - [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
+
+## Jinja 
+
+- [viasite-ansible/ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 
 ## Jsonnet 
 
