@@ -369,7 +369,7 @@
 - [aiogram/bot](https://github.com/aiogram/bot) - This bot is used as example of usage aiogram framework and as admin-helper in our community chats.
 - [vkbottle/vkbottle](https://github.com/vkbottle/vkbottle) - Сustomizable asynchronous VK API framework
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [nithinmurali/pygsheets](https://github.com/nithinmurali/pygsheets) - Google Sheets Python API v4
