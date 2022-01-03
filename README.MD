@@ -329,7 +329,7 @@
 
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
-- [i-MSCP/imscp](https://github.com/i-MSCP/imscp) - i-MSCP Main Repository
+- [i-MSCP/imscp](https://github.com/i-MSCP/imscp) - i-MSCP - internet Multi-Server Control Panel
 - [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
 - [maxvinza/dns-rkn-mikrotic](https://github.com/maxvinza/dns-rkn-mikrotic) - Скрипты для автомотического внесения статических записей в dns-кэш микротика
 - [Codegyre/RoboCI](https://github.com/Codegyre/RoboCI) - virtualized environment runner for Continuous Integration servers
