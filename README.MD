@@ -78,7 +78,7 @@
 
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - Unofficial Telegram Desktop (Windows 64bit/x64)
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with TUI window manager and multi-party session sharing
+- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with window manager and session sharing
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [Sea-n/tdesktop](https://github.com/Sea-n/tdesktop) - Unofficial Telegreat Messaging app
 - [itsumma/itstelegram](https://github.com/itsumma/itstelegram) - Telegram Desktop messaging app
