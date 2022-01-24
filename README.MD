@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [inCaller/prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 - [slok/alertgram](https://github.com/slok/alertgram) - Easy and simple prometheus alertmanager alerts on telegram
