@@ -499,7 +499,7 @@
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [diced/zipline](https://github.com/diced/zipline) - Zipline is a ShareX/file upload server that is easy to use, packed with features and can be setup in one command!
