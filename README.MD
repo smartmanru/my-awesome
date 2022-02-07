@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 ## C++ 
@@ -99,6 +100,7 @@
 
 ## Go 
 
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [inCaller/prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
@@ -358,6 +360,8 @@
 
 ## Python 
 
+- [DarkCat09/python-scripts](https://github.com/DarkCat09/python-scripts) - Some useful python scripts
+- [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
 - [MasterGroosha/telegram-stats-demo](https://github.com/MasterGroosha/telegram-stats-demo) - [зеркало с GitLab] Тестовый бот со сбором статистики (InfluxDB + Grafana)
 - [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
