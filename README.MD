@@ -360,6 +360,7 @@
 
 ## Python 
 
+- [harrypython/itsagramlive](https://github.com/harrypython/itsagramlive) - It's A Gram Live is a Python script that create a Instagram Live and provide you a rtmp server and stream key to streaming using sofwares like OBS-Studio.
 - [DarkCat09/python-scripts](https://github.com/DarkCat09/python-scripts) - Some useful python scripts
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
