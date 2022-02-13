@@ -257,6 +257,8 @@
 
 ## Others 
 
+- [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
+- [OldBonhart/Osint-Resources](https://github.com/OldBonhart/Osint-Resources) - Data collected from publicly available sources to be used in an intelligence context
 - [lihaoyun6/PD-Runner](https://github.com/lihaoyun6/PD-Runner) - A VM launcher for Parallels Desktop
 - [mramorok/TGPars](https://github.com/mramorok/TGPars) - Free Telegram spamer, inviter and parser
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
