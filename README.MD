@@ -257,6 +257,7 @@
 
 ## Others 
 
+- [flipperdevices/flipper-hackathon-moscow](https://github.com/flipperdevices/flipper-hackathon-moscow) - Flipper Hackathon Moscow 2021
 - [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
 - [OldBonhart/Osint-Resources](https://github.com/OldBonhart/Osint-Resources) - Data collected from publicly available sources to be used in an intelligence context
 - [lihaoyun6/PD-Runner](https://github.com/lihaoyun6/PD-Runner) - A VM launcher for Parallels Desktop
