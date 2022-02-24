@@ -432,6 +432,7 @@
 
 ## Ruby 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [der-flo/tmux_cheatsheet](https://github.com/der-flo/tmux_cheatsheet) - My personal cheatsheet for tmux, the terminal multiplexer
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
 - [baxang/coupon-code](https://github.com/baxang/coupon-code) - Generate and validate coupon codes.
