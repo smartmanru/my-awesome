@@ -50,6 +50,7 @@
 
 ## C 
 
+- [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [drscream/fiche](https://github.com/drscream/fiche) - Command line pastebin for sharing terminal output.
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
 - [containers/quadlet](https://github.com/containers/quadlet) - 
@@ -72,6 +73,7 @@
 
 ## C# # 
 
+- [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
@@ -166,6 +168,7 @@
 
 ## JavaScript 
 
+- [wladich/nakarte](https://github.com/wladich/nakarte) - Source code of site http://nakarte.me
 - [joker314/UrgentMod](https://github.com/joker314/UrgentMod) - A Discord moderation bot which uses the community to ban users when the moderators are away.
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [musicman3/eMarket](https://github.com/musicman3/eMarket) - eMarket Online Store. It is a free online store engine. Make the best online shop with us. Join our Open Source community. Together we will make the best free e-commerce solution.
@@ -257,6 +260,9 @@
 
 ## Others 
 
+- [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
+- [abuwhite/awesome-devops-russia](https://github.com/abuwhite/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
+- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [flipperdevices/flipper-hackathon-moscow](https://github.com/flipperdevices/flipper-hackathon-moscow) - Flipper Hackathon Moscow 2021
 - [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
 - [OldBonhart/Osint-Resources](https://github.com/OldBonhart/Osint-Resources) - Data collected from publicly available sources to be used in an intelligence context
@@ -363,6 +369,8 @@
 
 ## Python 
 
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
+- [wladich/page2feed](https://github.com/wladich/page2feed) - Monitor changes of any web page create RSS feed
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [harrypython/itsagramlive](https://github.com/harrypython/itsagramlive) - It's A Gram Live is a Python script that create a Instagram Live and provide you a rtmp server and stream key to streaming using sofwares like OBS-Studio.
 - [DarkCat09/python-scripts](https://github.com/DarkCat09/python-scripts) - Some useful python scripts
@@ -441,6 +449,7 @@
 
 ## Rust 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
