@@ -50,6 +50,8 @@
 
 ## C 
 
+- [tyllj/Roar](https://github.com/tyllj/Roar) - 
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [drscream/fiche](https://github.com/drscream/fiche) - Command line pastebin for sharing terminal output.
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
@@ -79,6 +81,7 @@
 
 ## C++ 
 
+- [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - Unofficial Telegram Desktop (Windows 64bit/x64)
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with window manager and session sharing
