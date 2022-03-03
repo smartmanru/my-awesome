@@ -144,6 +144,7 @@
 
 ## Java 
 
+- [Jiesean/ANCSReader](https://github.com/Jiesean/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
 - [LonamiWebs/Stringlate](https://github.com/LonamiWebs/Stringlate) - Android application to help in strings.xml translation
 - [grishka/Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -548,6 +549,7 @@
 
 ## Vue 
 
+- [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 
 
