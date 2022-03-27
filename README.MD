@@ -134,7 +134,7 @@
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это копилка полезностей объемом 370+ страниц
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
-- [authentic-theme/authentic-theme](https://github.com/authentic-theme/authentic-theme) - Official theme for the best server management panel of the 21st Century
+- [webmin/authentic-theme](https://github.com/webmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 
