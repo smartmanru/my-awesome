@@ -81,8 +81,9 @@
 
 ## C++ 
 
+- [deemru/Chromium-Gost](https://github.com/deemru/Chromium-Gost) - Chromium с поддержкой алгоритмов ГОСТ
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
-- [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - Unofficial Telegram Desktop (Windows 64bit/x64)
+- [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with window manager and session sharing
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
@@ -101,6 +102,8 @@
 
 ## Dockerfile 
 
+- [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - ReDroid (Remote-Android) is a multi-arch, GPU enabled, Android in Container solution. Track issues / docs here
+- [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [smartmanru/docker-proxy-rkn](https://github.com/smartmanru/docker-proxy-rkn) - Telegram bot proxy
 
 ## Go 
@@ -127,6 +130,7 @@
 
 ## HTML 
 
+- [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 - [vikdiesel/admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard) - Admin One HTML — Free Bulma Admin Dashboard Template (HTML + CSS/SCSS)
@@ -172,6 +176,7 @@
 
 ## JavaScript 
 
+- [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
 - [wladich/nakarte](https://github.com/wladich/nakarte) - Source code of site http://nakarte.me
 - [joker314/UrgentMod](https://github.com/joker314/UrgentMod) - A Discord moderation bot which uses the community to ban users when the moderators are away.
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
@@ -264,6 +269,7 @@
 
 ## Others 
 
+- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - 
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
 - [abuwhite/awesome-devops-russia](https://github.com/abuwhite/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
@@ -373,6 +379,8 @@
 
 ## Python 
 
+- [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
+- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - sms bomber, call bomber, email spammer, WhatsApp spammer, Telegram spammer, Discord spammer and DoS attacker
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [wladich/page2feed](https://github.com/wladich/page2feed) - Monitor changes of any web page create RSS feed
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
@@ -552,6 +560,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 
