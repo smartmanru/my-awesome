@@ -92,6 +92,7 @@
 
 ## CSS 
 
+- [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [smartmanru/osctrl-docs](https://github.com/smartmanru/osctrl-docs) - Documentation for osctrl
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [brahma-dev/synergy-stable-builds](https://github.com/brahma-dev/synergy-stable-builds) - Downloads : https://brahma-dev.github.io/synergy-stable-builds/
@@ -379,6 +380,7 @@
 
 ## Python 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
 - [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - sms bomber, call bomber, email spammer, WhatsApp spammer, Telegram spammer, Discord spammer and DoS attacker
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
