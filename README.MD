@@ -109,6 +109,7 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -377,6 +378,7 @@
 
 ## PowerShell 
 
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 
 ## PureScript 
@@ -385,6 +387,8 @@
 
 ## Python 
 
+- [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+- [Turonk/infra_actions](https://github.com/Turonk/infra_actions) - Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
@@ -548,6 +552,7 @@
 
 ## TypeScript 
 
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
