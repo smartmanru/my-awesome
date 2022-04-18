@@ -50,6 +50,7 @@
 
 ## C 
 
+- [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [tyllj/Roar](https://github.com/tyllj/Roar) - 
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
