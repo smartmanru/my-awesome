@@ -105,6 +105,7 @@
 
 ## Dockerfile 
 
+- [EpicMorg/docker-scripts](https://github.com/EpicMorg/docker-scripts) - A collection of docker images for production use. This repo contains 2 types of images - advanced and ecosystem. We support linux x86_64 docker engine (Win64 is still in the testing stage).
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - ReDroid (Remote-Android) is a multi-arch, GPU enabled, Android in Container solution. Track issues / docs here
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [smartmanru/docker-proxy-rkn](https://github.com/smartmanru/docker-proxy-rkn) - Telegram bot proxy
@@ -276,6 +277,7 @@
 
 ## Others 
 
+- [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
 - [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - 
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
 - [abuwhite/awesome-devops-russia](https://github.com/abuwhite/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
