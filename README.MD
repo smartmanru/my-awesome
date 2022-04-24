@@ -137,6 +137,7 @@
 
 ## HTML 
 
+- [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
@@ -182,6 +183,8 @@
 
 ## JavaScript 
 
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
@@ -277,6 +280,8 @@
 
 ## Others 
 
+- [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
+- [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф и о процессе интервью
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
 - [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - 
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
@@ -391,6 +396,7 @@
 
 ## Python 
 
+- [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [Turonk/infra_actions](https://github.com/Turonk/infra_actions) - Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
