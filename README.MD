@@ -280,6 +280,7 @@
 
 ## Others 
 
+- [smartmanru/adm_linux_ops_questions](https://github.com/smartmanru/adm_linux_ops_questions) - Репозиторий частых вопросов на собеседованиях на должность администратора Linux / DevOps
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф и о процессе интервью
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
