@@ -137,6 +137,7 @@
 
 ## HTML 
 
+- [dg/texy](https://github.com/dg/texy) - Texy is a lightweight markup language with plain text formatting syntax engine.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
@@ -497,6 +498,7 @@
 
 ## Shell 
 
+- [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [tytydraco/KTweak](https://github.com/tytydraco/KTweak) - A no-nonsense kernel tweak script for Linux and Android systems, backed by evidence.
