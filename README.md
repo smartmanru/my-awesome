@@ -35,6 +35,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
 - [TSQL](#tsql)
@@ -496,6 +497,10 @@
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
+
+## SCSS 
+
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 
 ## Scala 
 
