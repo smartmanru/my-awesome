@@ -142,6 +142,7 @@
 - [openresty/openresty.org](https://github.com/openresty/openresty.org) - Code and data for the openresty.org site
 - [dg/texy](https://github.com/dg/texy) - Texy is a lightweight markup language with plain text formatting syntax engine.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
+- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - Register for your *is-a-good-dev* domain!
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
@@ -295,7 +296,6 @@
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф и о процессе интервью
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
-- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - Register for your *is-a-good-dev* domain!
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
 - [abuwhite/awesome-devops-russia](https://github.com/abuwhite/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
