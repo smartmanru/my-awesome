@@ -193,6 +193,7 @@
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
 - [wladich/nakarte](https://github.com/wladich/nakarte) - Source code of site http://nakarte.me
@@ -586,7 +587,6 @@
 
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
