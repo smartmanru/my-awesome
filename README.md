@@ -188,6 +188,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/super-regex](https://github.com/sindresorhus/super-regex) - Make a regular expression time out if it takes too long to execute
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
