@@ -405,6 +405,7 @@
 
 ## Python 
 
+- [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [smileboywtu/MillionHeroAssistant](https://github.com/smileboywtu/MillionHeroAssistant) - 百万 / 冲顶 / 芝士 / UC  / 万能 答题助手（知识图谱更加专业，自动推荐答案， Android手机自动屏幕适配，模拟器支持，多开)
 - [kdrag0n/pyrobud](https://github.com/kdrag0n/pyrobud) - A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients.
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
