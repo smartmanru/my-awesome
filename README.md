@@ -522,6 +522,8 @@
 
 ## Shell 
 
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
