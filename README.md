@@ -189,6 +189,7 @@
 
 ## JavaScript 
 
+- [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [sindresorhus/super-regex](https://github.com/sindresorhus/super-regex) - Make a regular expression time out if it takes too long to execute
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -410,6 +411,7 @@
 
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
+- [AlexMKX/mrvpn](https://github.com/AlexMKX/mrvpn) - Multi-Route VPN
 - [smileboywtu/MillionHeroAssistant](https://github.com/smileboywtu/MillionHeroAssistant) - 百万 / 冲顶 / 芝士 / UC  / 万能 答题助手（知识图谱更加专业，自动推荐答案， Android手机自动屏幕适配，模拟器支持，多开)
 - [kdrag0n/pyrobud](https://github.com/kdrag0n/pyrobud) - A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients.
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
@@ -498,7 +500,6 @@
 ## Ruby 
 
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
-- [AlexMKX/mrvpn](https://github.com/AlexMKX/mrvpn) - Multi-Route VPN
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [der-flo/tmux_cheatsheet](https://github.com/der-flo/tmux_cheatsheet) - My personal cheatsheet for tmux, the terminal multiplexer
 - [m0nad/HellRaiser](https://github.com/m0nad/HellRaiser) - Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
