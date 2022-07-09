@@ -139,6 +139,7 @@
 
 ## HTML 
 
+- [smartmanru/wg-easy](https://github.com/smartmanru/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [openresty/openresty.org](https://github.com/openresty/openresty.org) - Code and data for the openresty.org site
 - [dg/texy](https://github.com/dg/texy) - Texy is a lightweight markup language with plain text formatting syntax engine.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
@@ -301,6 +302,7 @@
 
 ## Others 
 
+- [smartmanru/tools](https://github.com/smartmanru/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
 - [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
 - [mjpieters/awesome-codemods](https://github.com/mjpieters/awesome-codemods) - Curated list of tools that can fix your code for you
 - [smartmanru/adm_linux_ops_questions](https://github.com/smartmanru/adm_linux_ops_questions) - Репозиторий частых вопросов на собеседованиях на должность администратора Linux / DevOps
