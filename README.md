@@ -428,7 +428,7 @@
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
-- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS bomber, email spammer, WhatsApp spammer, Telegram spammer, Discord spammer and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
+- [ebankoff/Beast_Bomber](https://github.com/ebankoff/Beast_Bomber) - SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker. Supported platforms: Windows, Linux, MacOS, Termux
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [wladich/page2feed](https://github.com/wladich/page2feed) - Monitor changes of any web page create RSS feed
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
