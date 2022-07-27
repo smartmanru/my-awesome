@@ -280,7 +280,7 @@
 
 ## Lua 
 
-- [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
+- [Optixal/neovim-init.vim](https://github.com/Optixal/neovim-init.vim) - :izakaya_lantern: A hybrid Neovim configuration for productive developers who want a functional yet aesthetic Vim experience :izakaya_lantern:
 - [kruvcraft21/SKScript](https://github.com/kruvcraft21/SKScript) - Script for Soul knight
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [rizaumami/merbot](https://github.com/rizaumami/merbot) - Telegram Group Administration Bot
