@@ -24,6 +24,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Objective-C](#objective-c)
 - [Objective-J](#objective-j)
 - [Others](#others)
@@ -144,7 +145,7 @@
 - [openresty/openresty.org](https://github.com/openresty/openresty.org) - Code and data for the openresty.org site
 - [dg/texy](https://github.com/dg/texy) - Texy is a lightweight markup language with plain text formatting syntax engine.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
-- [is-a-good-dev/Register](https://github.com/is-a-good-dev/Register) - Register for your *is-a-good-dev* domain!
+- [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your *is-a-good-dev* domain!
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
@@ -295,6 +296,10 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## Objective-C 
 
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
@@ -315,7 +320,7 @@
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф и о процессе интервью
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
-- [abuwhite/awesome-devops-russia](https://github.com/abuwhite/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
+- [znhv/awesome-devops-russia](https://github.com/znhv/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [flipperdevices/flipper-hackathon-moscow](https://github.com/flipperdevices/flipper-hackathon-moscow) - Flipper Hackathon Moscow 2021
 - [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
@@ -484,7 +489,6 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [fnzv/trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Drewsif/OpenVPN-Config-Generator](https://github.com/Drewsif/OpenVPN-Config-Generator) - 
 - [mosmetro-android/mosmetro-python](https://github.com/mosmetro-android/mosmetro-python) - Скрипт для автоматической авторизации в сетях московского общественного транспорта
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
