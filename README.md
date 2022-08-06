@@ -79,7 +79,7 @@
 ## C# # 
 
 - [mecitsem/Arf-HashtagBot](https://github.com/mecitsem/Arf-HashtagBot) - Send a photo and generate auto hashtag for your photos with this bot on Facebook, Telegram and Skype channels.
-- [FastEndpoints/Library](https://github.com/FastEndpoints/Library) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern
+- [FastEndpoints/Library](https://github.com/FastEndpoints/Library) - A light-weight REST API development framework for ASP.Net 6 and newer.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 
