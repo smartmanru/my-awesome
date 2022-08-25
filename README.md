@@ -42,7 +42,7 @@
 - [TypeScript](#typescript)
 - [VBA](#vba)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## AutoHotkey 
@@ -642,7 +642,7 @@
 
 - [elementary/terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS
 
-## Vim script 
+## Vim Script 
 
 - [pete911/commands](https://github.com/pete911/commands) - 
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
