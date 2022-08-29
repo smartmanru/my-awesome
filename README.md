@@ -306,6 +306,7 @@
 
 ## Others 
 
+- [schickling/awesome-local-first](https://github.com/schickling/awesome-local-first) - A collection of awesome local-first projects and related things
 - [jovotech/awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps) - 🕶 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [smartmanru/tools](https://github.com/smartmanru/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
@@ -534,6 +535,8 @@
 
 ## Shell 
 
+- [schickling/dockerfiles](https://github.com/schickling/dockerfiles) - Collection of lightweight and ready-to-use docker images
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
@@ -610,6 +613,8 @@
 
 ## TypeScript 
 
+- [schickling/colorrado](https://github.com/schickling/colorrado) - Beautiful color gradients based on images
+- [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
