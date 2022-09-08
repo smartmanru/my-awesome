@@ -52,6 +52,7 @@
 
 ## C 
 
+- [Zackptg5/Keycheck](https://github.com/Zackptg5/Keycheck) - Keycheck binary from: https://github.com/sonyxperiadev/device-sony-common-init/tree/master/keycheck
 - [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [tyllj/Roar](https://github.com/tyllj/Roar) - 
