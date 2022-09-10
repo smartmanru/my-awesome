@@ -325,7 +325,7 @@
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф и о процессе интервью
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
-- [znhv/awesome-devops-russia](https://github.com/znhv/awesome-devops-russia) - Список русскоязычных ресурсов для изучения DevOps
+- [znhv/ru-awesome-devops](https://github.com/znhv/ru-awesome-devops) - Список с актуальной документацией для DevOps
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [flipperdevices/flipper-hackathon-moscow](https://github.com/flipperdevices/flipper-hackathon-moscow) - Flipper Hackathon Moscow 2021
 - [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
