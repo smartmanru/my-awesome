@@ -170,6 +170,7 @@
 
 ## Java 
 
+- [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A cool code editor library on Android with syntax-highlighting and auto-completion. (aka CodeEditor)
 - [Jiesean/ANCSReader](https://github.com/Jiesean/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
 - [LonamiWebs/Stringlate](https://github.com/LonamiWebs/Stringlate) - Android application to help in strings.xml translation
