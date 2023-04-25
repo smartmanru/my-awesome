@@ -109,6 +109,7 @@
 - [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
+- [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -1230,14 +1231,12 @@
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [mjpieters/awesome-codemods](https://github.com/mjpieters/awesome-codemods) - Curated list of tools that can fix your code for you
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [openresty/openresty.org](https://github.com/openresty/openresty.org) - Code and data for the openresty.org site
 - [smartmanru/adm_linux_ops_questions](https://github.com/smartmanru/adm_linux_ops_questions) - Репозиторий частых вопросов на собеседованиях на должность администратора Linux / DevOps
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф, включая подготовку к собеседованию
-- [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [Turonk/infra_actions](https://github.com/Turonk/infra_actions) - Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
@@ -1454,6 +1453,12 @@
 
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
+
+## penetration-testing 
+
+- [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
+- [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
 ## perl 
 
