@@ -690,7 +690,7 @@
 
 - [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [aau-network-security/haaukins](https://github.com/aau-network-security/haaukins) - A Highly Accessible and Automated Virtualization Platform for Security Education
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
@@ -705,7 +705,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
@@ -1644,7 +1644,7 @@
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - ☁️ Homepage for Backend developers.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
 - [OWASP/www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten) - OWASP Foundation Web Respository
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
