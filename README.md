@@ -103,7 +103,6 @@
 
 ## C# # 
 
-- [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) - Cloud Flare scanner
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [kolei/PiRIS](https://github.com/kolei/PiRIS) - Проектирование и Разработка Информационных Систем
 - [mecitsem/Arf-HashtagBot](https://github.com/mecitsem/Arf-HashtagBot) - Send a photo and generate auto hashtag for your photos with this bot on Facebook, Telegram and Skype channels.
@@ -358,6 +357,7 @@
 
 ## Kotlin 
 
+- [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) - Cloud Flare scanner
 - [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
@@ -540,7 +540,7 @@
 
 ## Python 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
