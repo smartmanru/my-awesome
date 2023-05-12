@@ -28,7 +28,6 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [coding](#coding)
-- [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -163,7 +162,7 @@
 
 ## ai 
 
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏等等。
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
@@ -323,7 +322,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [WoozyMasta/kube-dump](https://github.com/WoozyMasta/kube-dump) - Backup a Kubernetes cluster as a yaml manifest
-- [iamlooper/XCompiler](https://github.com/iamlooper/XCompiler) - Compile any shell script into a executable binary for Android
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
@@ -388,7 +386,7 @@
 ## chatgpt 
 
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏等等。
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
@@ -411,7 +409,7 @@
 
 ## chrome-extension 
 
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also quickly search anything (selection search / text / image / link) on any engine with a simple right click or a variety of menu
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus 
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [iPaulPro/BitCloutPlus](https://github.com/iPaulPro/BitCloutPlus) - Browser extension that enhances BitClout pages
@@ -447,10 +445,6 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
-
-## compiler 
-
-- [iamlooper/XCompiler](https://github.com/iamlooper/XCompiler) - Compile any shell script into a executable binary for Android
 
 ## continuous-integration 
 
@@ -1131,7 +1125,7 @@
 
 ## open-source 
 
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also quickly search anything (selection search / text / image / link) on any engine with a simple right click or a variety of menu
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus 
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1156,6 +1150,7 @@
 
 ## others 
 
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [machsix/Super-preloader](https://github.com/machsix/Super-preloader) - Userscript to enable autopagerizing as well as preloading
 - [Xposed-Modules-Repo/cn.kwaiching.hook](https://github.com/Xposed-Modules-Repo/cn.kwaiching.hook) - 要妳命三千Xposed模組
@@ -1612,7 +1607,7 @@
 
 ## reactjs 
 
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also quickly search anything (selection search / text / image / link) on any engine with a simple right click or a variety of menu
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus 
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 
@@ -1680,7 +1675,6 @@
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
-- [iamlooper/XCompiler](https://github.com/iamlooper/XCompiler) - Compile any shell script into a executable binary for Android
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
