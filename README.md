@@ -265,9 +265,9 @@
 ## JavaScript 
 
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载
-- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also quickly search anything (selection search / text / image / link) on any engine with a simple right click or a variety of menu
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another assistant web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus 
 - [machsix/Super-preloader](https://github.com/machsix/Super-preloader) - Userscript to enable autopagerizing as well as preloading
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏等等。
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
@@ -424,7 +424,6 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [TeamFiles/TeamFiles-Launcher](https://github.com/TeamFiles/TeamFiles-Launcher) - A launcher which aims to provide stability, speed & customization.
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) - A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/
-- [iamlooper/XCompiler](https://github.com/iamlooper/XCompiler) - Compile any shell script into a executable binary for Android
 - [Bobronium/bearable-windows-experience](https://github.com/Bobronium/bearable-windows-experience) - A lifeline for people dealing with Windows, especially after using macOS.
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [schickling/awesome-local-first](https://github.com/schickling/awesome-local-first) - A collection of awesome local-first projects and related things
@@ -543,6 +542,7 @@
 
 ## Python 
 
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
