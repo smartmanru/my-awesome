@@ -66,7 +66,7 @@
 ## Batchfile 
 
 - [iidanL/InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - New method of installation ANY windows iso without USB stick / CD-DVD.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
 
 ## C 
 
@@ -130,6 +130,7 @@
 
 ## CSS 
 
+- [Formicka/exchangerate.host](https://github.com/Formicka/exchangerate.host) - Exchange rates API is a simple and lightweight free service for current and historical foreign exchange rates & crypto exchange rates.
 - [netology-code/bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
 - [yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
 - [extratone/t](https://github.com/extratone/t) - My collection of Telegram themes, documentation, plugins, etc.
@@ -171,7 +172,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [aau-network-security/haaukins](https://github.com/aau-network-security/haaukins) - A Highly Accessible and Automated Virtualization Platform for Security Education
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
+- [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
