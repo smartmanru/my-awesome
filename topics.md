@@ -165,7 +165,7 @@
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏、展示全屏等等。
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 
 ## ajax 
@@ -387,7 +387,7 @@
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏、展示全屏等等。
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -599,7 +599,7 @@
 
 ## education 
 
-- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [aau-network-security/haaukins](https://github.com/aau-network-security/haaukins) - A Highly Accessible and Automated Virtualization Platform for Security Education
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -659,7 +659,7 @@
 
 ## git 
 
-- [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
 - [EpicMorg/docker](https://github.com/EpicMorg/docker) - A collection of docker images for production use. This repo contains 2 types of images - advanced and ecosystem. We support linux x86_64 docker engine (Win64 is still in the testing stage).
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
