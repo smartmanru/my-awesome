@@ -165,7 +165,7 @@
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki、core.ac.uk、academia.edu、国立台湾大学、国立新加坡大学、中国内陆院校等研究机构行业研究报告智库收集
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 
 ## ajax 
@@ -389,7 +389,7 @@
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki、core.ac.uk、academia.edu、国立台湾大学、国立新加坡大学、中国内陆院校等研究机构行业研究报告智库收集
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -536,6 +536,7 @@
 
 ## django 
 
+- [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
@@ -601,7 +602,7 @@
 
 ## education 
 
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki、core.ac.uk、academia.edu、国立台湾大学、国立新加坡大学、中国内陆院校等研究机构行业研究报告智库收集
 - [aau-network-security/haaukins](https://github.com/aau-network-security/haaukins) - A Highly Accessible and Automated Virtualization Platform for Security Education
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -661,7 +662,6 @@
 
 ## git 
 
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
 - [EpicMorg/docker](https://github.com/EpicMorg/docker) - A collection of docker images for production use. This repo contains 2 types of images - advanced and ecosystem. We support linux x86_64 docker engine (Win64 is still in the testing stage).
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -1487,6 +1487,7 @@
 
 ## postgresql 
 
+- [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
 - [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Business database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interfac
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -1743,6 +1744,7 @@
 
 ## telegram 
 
+- [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 - [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
 - [th33xitus/kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper
