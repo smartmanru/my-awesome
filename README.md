@@ -357,6 +357,7 @@
 
 ## Jupyter Notebook 
 
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
 - [smartmanru/RnnChatPrediction](https://github.com/smartmanru/RnnChatPrediction) - Предсказывает ответ пользователя на основании истории чатов
@@ -557,7 +558,6 @@
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 - [vitaliy-sk/keenetic-grafana-monitoring](https://github.com/vitaliy-sk/keenetic-grafana-monitoring) - Monitor Keenetic router with Grafana and InfluxDB
 - [PGAndre/InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
