@@ -117,7 +117,7 @@
 - [Aseman-Land/QtAV](https://github.com/Aseman-Land/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops.
 - [Aseman-Land/qhttp](https://github.com/Aseman-Land/qhttp) - a light-weight and asynchronous HTTP library (both server & client) in Qt5 and c++14
 - [xintrea/mytetra_dev](https://github.com/xintrea/mytetra_dev) - MyTetra - smart crossplatform manager for information collecting / MyTetra - кроссплатформенный менеджер накопления информации / Официальная страница:
-- [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.
+- [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [deemru/Chromium-Gost](https://github.com/deemru/Chromium-Gost) - Chromium с поддержкой алгоритмов ГОСТ
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
@@ -357,7 +357,7 @@
 
 ## Jupyter Notebook 
 
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立政治大学、新加坡国立大学、早稻田大学、东京大学，以及中国重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
 - [smartmanru/RnnChatPrediction](https://github.com/smartmanru/RnnChatPrediction) - Предсказывает ответ пользователя на основании истории чатов
