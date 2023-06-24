@@ -549,7 +549,7 @@
 - [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
