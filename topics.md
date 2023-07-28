@@ -145,6 +145,7 @@
 - [swiftui](#swiftui)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -1340,7 +1341,6 @@
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [smartmanru/Androl4b](https://github.com/smartmanru/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
-- [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) - Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP
 - [friendly-telegram/modules-repo](https://github.com/friendly-telegram/modules-repo) - REPOSITORY MOVED
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
@@ -1863,6 +1863,17 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+
+## termux 
+
+- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
+- [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+- [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) - Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP
+- [wcchoi/swell.sh](https://github.com/wcchoi/swell.sh) - Web-based Terminal for Bash designed for mobile with autocomplete suggestion & gesture typing keyboard
+- [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 
 ## terraform 
 
