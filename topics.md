@@ -218,6 +218,7 @@
 
 ## api 
 
+- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -1175,6 +1176,7 @@
 
 ## others 
 
+- [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) - 
 - [SagerNet/sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple) - Experimental iOS/macOS client for sing-box
 - [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
 - [EleutherAI/openwebtext2](https://github.com/EleutherAI/openwebtext2) - 
