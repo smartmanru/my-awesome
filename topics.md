@@ -1174,6 +1174,7 @@
 
 ## others 
 
+- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid) - A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
 - [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) - 
 - [SagerNet/sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple) - Experimental iOS/macOS client for sing-box
 - [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
