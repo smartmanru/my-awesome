@@ -395,7 +395,6 @@
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -445,6 +444,7 @@
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф, включая подготовку к собеседованию
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
 - [znhv/ru-awesome-devops](https://github.com/znhv/ru-awesome-devops) - Список с актуальной документацией для DevOps
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
