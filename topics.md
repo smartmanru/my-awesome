@@ -152,6 +152,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
+- [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1176,6 +1177,7 @@
 
 ## others 
 
+- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid) - A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
 - [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) - 
@@ -1242,7 +1244,6 @@
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [dev-dsp/TelegramPrivateChatLeaks](https://github.com/dev-dsp/TelegramPrivateChatLeaks) - Tips how to find private, hidden, personal groups and channels
 - [TeamFiles/TeamFiles-Launcher](https://github.com/TeamFiles/TeamFiles-Launcher) - A launcher which aims to provide stability, speed & customization.
-- [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [aiogram/tg-codegen](https://github.com/aiogram/tg-codegen) - Code generator for aiogram 3.x with parser of Telegram Bot API docs
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) - A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/
 - [ContainerSolutions/prom-metrics-check](https://github.com/ContainerSolutions/prom-metrics-check) - 
@@ -1940,6 +1941,10 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
+
+## visual-studio-code 
+
+- [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 
 ## vue 
 
