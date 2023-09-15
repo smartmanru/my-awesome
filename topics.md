@@ -1196,7 +1196,6 @@
 - [ikws4/WeiJu2-Scripts](https://github.com/ikws4/WeiJu2-Scripts) - 
 - [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
 - [GlUTEN-BASH/Flipper-Starnew](https://github.com/GlUTEN-BASH/Flipper-Starnew) - Универсальные ключи StarNew в формате для Flipper Zero
-- [Borntowarn/Video-captioning](https://github.com/Borntowarn/Video-captioning) - 
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [curi0usJack/Ansible-SSH-Conf](https://github.com/curi0usJack/Ansible-SSH-Conf) - Uses Ansible to generate a new EC2 instance then an SSH conf file for that instance.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
