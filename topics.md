@@ -472,7 +472,7 @@
 ## css 
 
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
+- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 
@@ -679,7 +679,7 @@
 
 ## git 
 
-- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
+- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [EpicMorg/docker](https://github.com/EpicMorg/docker) - A collection of docker images for production use. This repo contains 2 types of images - advanced and ecosystem. We support linux x86_64 docker engine (Win64 is still in the testing stage).
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -825,7 +825,7 @@
 
 ## html 
 
-- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
+- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 
@@ -875,7 +875,7 @@
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
-- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
+- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
@@ -1736,7 +1736,7 @@
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
-- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
+- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
