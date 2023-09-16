@@ -439,7 +439,7 @@
 - [schickling/awesome-local-first](https://github.com/schickling/awesome-local-first) - A collection of awesome local-first projects and related things
 - [jovotech/awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps) - 🕶 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 - [smartmanru/tools](https://github.com/smartmanru/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
-- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
+- [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [mjpieters/awesome-codemods](https://github.com/mjpieters/awesome-codemods) - Curated list of tools that can fix your code for you
 - [smartmanru/adm_linux_ops_questions](https://github.com/smartmanru/adm_linux_ops_questions) - Репозиторий частых вопросов на собеседованиях на должность администратора Linux / DevOps
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
