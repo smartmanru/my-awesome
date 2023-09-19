@@ -776,6 +776,7 @@
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [kdrag0n/pyrobud](https://github.com/kdrag0n/pyrobud) - A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients.
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -1208,7 +1209,7 @@
 - [netology-code/bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
 - [PGAndre/InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot) - 
 - [ChronoStriker1/JoinDesktop](https://github.com/ChronoStriker1/JoinDesktop) - A desktop app for Join built in Electron
-- [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps
+- [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/q/project:hikari-no-yume/touchHLE+status:open
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [sickcodes/droid-native](https://github.com/sickcodes/droid-native) - Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid
