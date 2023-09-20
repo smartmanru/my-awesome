@@ -140,6 +140,7 @@
 - [spring](#spring)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -352,6 +353,8 @@
 
 ## bot 
 
+- [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
+- [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
 - [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template) - This is a scalable and functional template for any bots which will be made with aiogram 3.x
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
@@ -1544,6 +1547,8 @@
 
 ## python 
 
+- [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
+- [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -1593,6 +1598,7 @@
 
 ## python3 
 
+- [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
 - [lyteloli/NekoGram](https://github.com/lyteloli/NekoGram) - A wrapper over AIOGram that makes creation of Telegram bots even easier
 - [smileboywtu/MillionHeroAssistant](https://github.com/smileboywtu/MillionHeroAssistant) - 百万 / 冲顶 / 芝士 / UC  / 万能 答题助手（知识图谱更加专业，自动推荐答案， Android手机自动屏幕适配，模拟器支持，多开)
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
@@ -1788,6 +1794,11 @@
 
 - [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
+## support 
+
+- [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
+- [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
+
 ## svelte 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
@@ -1804,6 +1815,7 @@
 
 ## telegram 
 
+- [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
 - [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template) - This is a scalable and functional template for any bots which will be made with aiogram 3.x
 - [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
