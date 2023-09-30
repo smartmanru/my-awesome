@@ -1186,6 +1186,7 @@
 
 ## others 
 
+- [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts) - A collection of useful shell scripts, for the lazy and impatient.
 - [pawelsikora/mkdocs-with-confluence](https://github.com/pawelsikora/mkdocs-with-confluence) - MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API
 - [Firemoon777/dialog-sticker-bot](https://github.com/Firemoon777/dialog-sticker-bot) - 
