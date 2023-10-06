@@ -1199,6 +1199,7 @@
 
 ## others 
 
+- [LoginovIlya/vi-vim-graphical-cheat-sheet-ru](https://github.com/LoginovIlya/vi-vim-graphical-cheat-sheet-ru) - Русский перевод vi/vim graphical cheat sheet
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts) - A collection of useful shell scripts, for the lazy and impatient.
 - [pawelsikora/mkdocs-with-confluence](https://github.com/pawelsikora/mkdocs-with-confluence) - MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API
@@ -1221,7 +1222,7 @@
 - [GlUTEN-BASH/Flipper-Starnew](https://github.com/GlUTEN-BASH/Flipper-Starnew) - Универсальные ключи StarNew в формате для Flipper Zero
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [curi0usJack/Ansible-SSH-Conf](https://github.com/curi0usJack/Ansible-SSH-Conf) - Uses Ansible to generate a new EC2 instance then an SSH conf file for that instance.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [vitaliy-sk/keenetic-grafana-monitoring](https://github.com/vitaliy-sk/keenetic-grafana-monitoring) - Monitor Keenetic router with Grafana and InfluxDB
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager
 - [ohueter/autokbisw](https://github.com/ohueter/autokbisw) - Automatic keyboard input source switching for macOS
