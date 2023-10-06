@@ -416,6 +416,7 @@
 
 ## Others 
 
+- [LoginovIlya/vi-vim-graphical-cheat-sheet-ru](https://github.com/LoginovIlya/vi-vim-graphical-cheat-sheet-ru) - Русский перевод vi/vim graphical cheat sheet
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
@@ -582,7 +583,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [vitaliy-sk/keenetic-grafana-monitoring](https://github.com/vitaliy-sk/keenetic-grafana-monitoring) - Monitor Keenetic router with Grafana and InfluxDB
 - [PGAndre/InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
