@@ -725,6 +725,7 @@
 
 ## Shell 
 
+- [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
 - [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts) - A collection of useful shell scripts, for the lazy and impatient.
 - [svlady/cli](https://github.com/svlady/cli) - Management CLI tools for GitLab, MS AD, SonarQube and Vault
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
