@@ -28,6 +28,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [coding](#coding)
+- [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -471,6 +472,12 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
+
+## computer-science 
+
+- [zhashkevych/awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
 ## continuous-integration 
 
@@ -1230,7 +1237,7 @@
 - [GlUTEN-BASH/Flipper-Starnew](https://github.com/GlUTEN-BASH/Flipper-Starnew) - Универсальные ключи StarNew в формате для Flipper Zero
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [curi0usJack/Ansible-SSH-Conf](https://github.com/curi0usJack/Ansible-SSH-Conf) - Uses Ansible to generate a new EC2 instance then an SSH conf file for that instance.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [vitaliy-sk/keenetic-grafana-monitoring](https://github.com/vitaliy-sk/keenetic-grafana-monitoring) - Monitor Keenetic router with Grafana and InfluxDB
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager
 - [ohueter/autokbisw](https://github.com/ohueter/autokbisw) - Automatic keyboard input source switching for macOS
@@ -1477,7 +1484,6 @@
 - [scottsperry/ddwrt-scripts](https://github.com/scottsperry/ddwrt-scripts) - scripts for use in conjunction with dd-wrt
 - [LiquidVPN-inc/dd-wrt-openvpn-config-creator](https://github.com/LiquidVPN-inc/dd-wrt-openvpn-config-creator) - Create DD-WRT OpenVPN Configurations for virtually all VPN services that rely on username and password to connect.
 - [trevorndodds/dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [521xueweihan/shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku) - 本项目已删除
 - [mosmetro-android/mosmetro-python](https://github.com/mosmetro-android/mosmetro-python) - Скрипт для автоматической авторизации в сетях московского общественного транспорта
 - [DesignativeDave/androrat](https://github.com/DesignativeDave/androrat) - Remote Administration Tool for Android devices
