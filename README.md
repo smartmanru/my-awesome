@@ -267,6 +267,7 @@
 
 ## JavaScript 
 
+- [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Проект интернет магазина по аналогии @durgerkingbot telegram бота
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
@@ -561,6 +562,7 @@
 
 ## Python 
 
+- [MamontenKa/YMS](https://github.com/MamontenKa/YMS) - Сбор и анализ статистики Яндекс Музыка
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
@@ -727,6 +729,7 @@
 
 ## Shell 
 
+- [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
 - [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts) - A collection of useful shell scripts, for the lazy and impatient.
 - [svlady/cli](https://github.com/svlady/cli) - Management CLI tools for GitLab, MS AD, SonarQube and Vault
