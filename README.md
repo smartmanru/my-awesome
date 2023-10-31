@@ -159,6 +159,7 @@
 
 ## Go 
 
+- [Snawoot/dumbproxy](https://github.com/Snawoot/dumbproxy) - Dumbest HTTP proxy ever
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
@@ -621,7 +622,7 @@
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [wladich/page2feed](https://github.com/wladich/page2feed) - Monitor changes of any web page create RSS feed
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
