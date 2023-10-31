@@ -720,7 +720,7 @@
 - [FilimonovAlexey/FilimonovAlexey](https://github.com/FilimonovAlexey/FilimonovAlexey) - Файлы разметки главной страницы GitHub профиля
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [EpicMorg/docker](https://github.com/EpicMorg/docker) - A collection of docker images for production use. This repo contains 2 types of images - advanced and ecosystem. We support linux x86_64 docker engine (Win64 is still in the testing stage).
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
@@ -868,6 +868,7 @@
 
 ## http 
 
+- [Snawoot/dumbproxy](https://github.com/Snawoot/dumbproxy) - Dumbest HTTP proxy ever
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
@@ -1611,7 +1612,7 @@
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
@@ -1940,7 +1941,7 @@
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [Hax4us/Apkmod](https://github.com/Hax4us/Apkmod) - Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP
 - [wcchoi/swell.sh](https://github.com/wcchoi/swell.sh) - Web-based Terminal for Bash designed for mobile with autocomplete suggestion & gesture typing keyboard
