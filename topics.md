@@ -1218,6 +1218,7 @@
 
 ## others 
 
+- [Matalus/steamdeck-tips](https://github.com/Matalus/steamdeck-tips) - Wiki and files relevant to my Steam Deck tinkering
 - [larskanis/pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
 - [MamontenKa/YMS](https://github.com/MamontenKa/YMS) - Сбор и анализ статистики Яндекс Музыка
 - [vsecoder/ru-toxic-messages-classification](https://github.com/vsecoder/ru-toxic-messages-classification) - 🗃 Classification of toxic and neutral messages on russian
