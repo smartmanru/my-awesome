@@ -554,6 +554,7 @@
 
 ## PowerShell 
 
+- [Matalus/steamdeck-tips](https://github.com/Matalus/steamdeck-tips) - Wiki and files relevant to my Steam Deck tinkering
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 
