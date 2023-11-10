@@ -369,6 +369,7 @@
 
 ## Kotlin 
 
+- [Androidacy/MagiskModuleManager](https://github.com/Androidacy/MagiskModuleManager) - Previously known as Fox's Magisk Module Manager (FoxMMM), this app helps users find, install "Magisk Modules" - powerful little zips/apps for your device that plug into the Magisk framework.
 - [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
 - [MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner) - Cloud Flare scanner
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
