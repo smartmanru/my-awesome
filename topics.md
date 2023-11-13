@@ -1933,7 +1933,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
-- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with window manager and session sharing
+- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with session sharing
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
