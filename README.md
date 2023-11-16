@@ -113,6 +113,8 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) - Bypass APK Signatures Verify & Integrity Check using Reflection
 - [Falldog/dcinja](https://github.com/Falldog/dcinja) - The smallest binary size of template engine, born for docker image
 - [Aseman-Land/QtAV](https://github.com/Aseman-Land/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops.
@@ -555,6 +557,9 @@
 
 ## PowerShell 
 
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [baldsealion/Win-Debloat-Tools](https://github.com/baldsealion/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [baldsealion/andrew-s-taylor-scripts](https://github.com/baldsealion/andrew-s-taylor-scripts) - Public Scripts and Apps from Andrew S Taylor
 - [Matalus/steamdeck-tips](https://github.com/Matalus/steamdeck-tips) - Wiki and files relevant to my Steam Deck tinkering
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
@@ -565,6 +570,7 @@
 
 ## Python 
 
+- [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
 - [MamontenKa/YMS](https://github.com/MamontenKa/YMS) - Сбор и анализ статистики Яндекс Музыка
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -717,6 +723,7 @@
 
 ## Rust 
 
+- [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [hikari-no-yume/touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/q/project:hikari-no-yume/touchHLE+status:open
@@ -733,6 +740,7 @@
 
 ## Shell 
 
+- [games-on-whales/gow](https://github.com/games-on-whales/gow) - Games on Whales - stream games (and GUI) running in Docker
 - [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
 - [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts) - A collection of useful shell scripts, for the lazy and impatient.
