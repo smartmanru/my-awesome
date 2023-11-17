@@ -570,6 +570,7 @@
 
 ## Python 
 
+- [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
 - [MamontenKa/YMS](https://github.com/MamontenKa/YMS) - Сбор и анализ статистики Яндекс Музыка
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
@@ -848,6 +849,8 @@
 
 ## TypeScript 
 
+- [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
