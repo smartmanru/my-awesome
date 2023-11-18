@@ -14,6 +14,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [D2](#d2)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -145,6 +146,10 @@
 ## CoffeeScript 
 
 - [521xueweihan/shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku) - 本项目已删除
+
+## D2 
+
+- [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 
 ## Dart 
 
@@ -422,6 +427,8 @@
 
 ## Others 
 
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [MindMacApp/awesome-chatgpt](https://github.com/MindMacApp/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [LoginovIlya/vi-vim-graphical-cheat-sheet-ru](https://github.com/LoginovIlya/vi-vim-graphical-cheat-sheet-ru) - Русский перевод vi/vim graphical cheat sheet
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
