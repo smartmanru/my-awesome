@@ -426,6 +426,7 @@
 
 ## Others 
 
+- [cagartner/awesome-d4](https://github.com/cagartner/awesome-d4) - 🎉 A curated list of awesome things related to Diablo 4
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [MindMacApp/awesome-chatgpt](https://github.com/MindMacApp/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
@@ -856,7 +857,7 @@
 
 ## TypeScript 
 
-- [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
+- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
