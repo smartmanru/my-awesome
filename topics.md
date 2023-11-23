@@ -893,6 +893,7 @@
 
 ## home-assistant 
 
+- [mishamyrt/ha-keychron](https://github.com/mishamyrt/ha-keychron) - 🎹 Keychron Home Assistant integration
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
@@ -1267,6 +1268,8 @@
 
 ## others 
 
+- [mishamyrt/keychron-adapter](https://github.com/mishamyrt/keychron-adapter) - 🎹 Keychron Desktop app
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [cagartner/awesome-d4](https://github.com/cagartner/awesome-d4) - 🎉 A curated list of awesome things related to Diablo 4
 - [MindMacApp/awesome-chatgpt](https://github.com/MindMacApp/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
