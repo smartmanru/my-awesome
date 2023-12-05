@@ -49,6 +49,7 @@
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
+- [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Visual Basic 6.0](#visual-basic-6.0)
@@ -437,6 +438,7 @@
 
 ## Others 
 
+- [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [soxoj/counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru) - Исчерпывающее руководство по приватности и контр-ОСИНТ для Рунета и всего СНГ 🇷🇺
 - [cagartner/awesome-d4](https://github.com/cagartner/awesome-d4) - 🎉 A curated list of awesome things related to Diablo 4
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -523,7 +525,7 @@
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [sameoldmadness/awesome-alice](https://github.com/sameoldmadness/awesome-alice) - Библиотеки и ресурсы для Яндекс.Диалогов
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -762,6 +764,7 @@
 
 ## Shell 
 
+- [kvazis/hassos](https://github.com/kvazis/hassos) - New server - Intel N100, proxmox + HASSOS
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - Games on Whales - stream games (and GUI) running in Docker
 - [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
@@ -913,6 +916,10 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+
+## VBScript 
+
+- [MrKristofere/BatUtil](https://github.com/MrKristofere/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vala 
 
