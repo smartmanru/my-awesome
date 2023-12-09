@@ -206,7 +206,7 @@
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [saitamasahil/Pixel-Launcher-Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android, to help you reduce your screen time.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android. Reduce your screen time by half.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
@@ -1003,7 +1003,7 @@
 ## kotlin 
 
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
-- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android, to help you reduce your screen time.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF launcher for Android. Reduce your screen time by half.
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) - Program, created to make popular adb and fastboot commands easier to use
 - [second-constantine/web-shell](https://github.com/second-constantine/web-shell) - Simple web-shell. Run on Java 1.8.
@@ -1665,7 +1665,7 @@
 
 ## powershell 
 
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
@@ -2178,7 +2178,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
