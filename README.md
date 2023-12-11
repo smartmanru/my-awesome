@@ -766,6 +766,7 @@
 
 ## Shell 
 
+- [aw1cks/openconnect](https://github.com/aw1cks/openconnect) - OpenConnect VPN running in Docker.
 - [kvazis/hassos](https://github.com/kvazis/hassos) - New server - Intel N100, proxmox + HASSOS
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) - Games on Whales - stream games (and GUI) running in Docker
