@@ -846,6 +846,7 @@
 
 ## hacktoberfest 
 
+- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
@@ -1066,6 +1067,7 @@
 
 ## linux 
 
+- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [brpaz/my-linux-setup](https://github.com/brpaz/my-linux-setup) - My Fedora Linux list of installed applications and Ansible provision scripts
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
@@ -1305,6 +1307,7 @@
 
 ## others 
 
+- [roskomsvoboda/vpnlove](https://github.com/roskomsvoboda/vpnlove) - Repository for VPNLove
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
