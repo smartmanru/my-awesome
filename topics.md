@@ -265,6 +265,7 @@
 
 ## automation 
 
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1139,6 +1140,7 @@
 
 ## macos 
 
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -1307,6 +1309,8 @@
 
 ## others 
 
+- [ryancollingwood/diablo_4_armory_fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Collect your Diablo 4 character changes from https://d4armory.io/ automatically using github actions
+- [ileygb8cwqogn8c/different_lists](https://github.com/ileygb8cwqogn8c/different_lists) - Огромные и эффективные словари для брута
 - [roskomsvoboda/vpnlove](https://github.com/roskomsvoboda/vpnlove) - Repository for VPNLove
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
