@@ -170,6 +170,7 @@
 
 ## Go 
 
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [TomWright/mermaid-server](https://github.com/TomWright/mermaid-server) - Go implementation of a HTTP server to allow remote generation of mermaid-js diagrams without any pre-requisites installed locally.
 - [mishamyrt/keychron-adapter](https://github.com/mishamyrt/keychron-adapter) - 🎹 Keychron Desktop app
@@ -285,6 +286,7 @@
 
 ## JavaScript 
 
+- [meh7an/Teleminal](https://github.com/meh7an/Teleminal) - Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connectio
 - [roskomsvoboda/vpnlove](https://github.com/roskomsvoboda/vpnlove) - Repository for VPNLove
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.
@@ -442,6 +444,7 @@
 
 ## Others 
 
+- [boychongzen18/Bug-Host-All-Operator](https://github.com/boychongzen18/Bug-Host-All-Operator) - 
 - [ileygb8cwqogn8c/different_lists](https://github.com/ileygb8cwqogn8c/different_lists) - Огромные и эффективные словари для брута
 - [devisasari/awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -476,7 +479,7 @@
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) - A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/
 - [Bobronium/bearable-windows-experience](https://github.com/Bobronium/bearable-windows-experience) - A lifeline for people dealing with Windows, especially after using macOS.
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
-- [schickling/awesome-local-first](https://github.com/schickling/awesome-local-first) - A collection of awesome local-first projects and related things
+- [schickling/awesome-local-first](https://github.com/schickling/awesome-local-first) - A collection of awesome local-first projects including offline-first and collaboration functionality
 - [jovotech/awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps) - 🕶 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [smartmanru/tools](https://github.com/smartmanru/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
@@ -953,6 +956,7 @@
 
 ## Vue 
 
+- [Easterok/telegram-onboarding-kit](https://github.com/Easterok/telegram-onboarding-kit) - A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
