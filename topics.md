@@ -2223,7 +2223,7 @@
 
 - [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
