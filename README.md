@@ -401,7 +401,7 @@
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Helps you reduce your screen time. Looks good.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) - Program, created to make popular adb and fastboot commands easier to use
 - [pbreault/adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
