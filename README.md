@@ -652,7 +652,7 @@
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [timsutton/mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert macOS property lists, defaults and MCX into Configuration Profiles with Custom Settings payloads
 - [rafal-qa/page-walker](https://github.com/rafal-qa/page-walker) - Chrome DevTools automation for desktop and mobile devices
-- [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant
+- [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими устройствами умного дома с Алисой из Home Assistant
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [aiogram/tg-codegen](https://github.com/aiogram/tg-codegen) - Code generator for aiogram 3.x with parser of Telegram Bot API docs
