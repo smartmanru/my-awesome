@@ -138,7 +138,6 @@
 
 ## CSS 
 
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [Formicka/exchangerate.host](https://github.com/Formicka/exchangerate.host) - Exchange rates API is a simple and lightweight free service for current and historical foreign exchange rates & crypto exchange rates.
 - [netology-code/bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
 - [yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
@@ -449,10 +448,11 @@
 - [frenck/action-home-assistant](https://github.com/frenck/action-home-assistant) - 🚀 Frenck's GitHub Action for running a Home Assistant Core configuration check
 - [boychongzen18/Bug-Host-All-Operator](https://github.com/boychongzen18/Bug-Host-All-Operator) - 
 - [ileygb8cwqogn8c/different_lists](https://github.com/ileygb8cwqogn8c/different_lists) - Огромные и эффективные словари для брута
-- [devisasari/awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
+- [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [MustardChef/WSAMagiskDelta](https://github.com/MustardChef/WSAMagiskDelta) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Magisk Delta and Google Play Store (OpenGApps/ MindTheGapps
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [soxoj/counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru) - Исчерпывающее руководство по приватности и контр-ОСИНТ для Рунета и всего СНГ 🇷🇺
 - [cagartner/awesome-d4](https://github.com/cagartner/awesome-d4) - 🎉 A curated list of awesome things related to Diablo 4
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
