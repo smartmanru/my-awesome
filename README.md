@@ -255,7 +255,7 @@
 
 - [Crazy-Marvin/Flashy](https://github.com/Crazy-Marvin/Flashy) - Simple & Privacy-Friendly Flashlight App
 - [aimardcr/APKSignReader](https://github.com/aimardcr/APKSignReader) - An android application to read signatures on installed apps.
-- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [DrKLO/TelegramStickersImport](https://github.com/DrKLO/TelegramStickersImport) - 
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A multifunctional Android code editor library. (aka CodeEditor)
 - [Jiesean/ANCSReader](https://github.com/Jiesean/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
