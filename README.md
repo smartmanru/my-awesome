@@ -622,7 +622,7 @@
 - [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
 - [pawelsikora/mkdocs-with-confluence](https://github.com/pawelsikora/mkdocs-with-confluence) - MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API
 - [Firemoon777/dialog-sticker-bot](https://github.com/Firemoon777/dialog-sticker-bot) - 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template) - This is a scalable and functional template for any bots which will be made with aiogram 3.x
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
