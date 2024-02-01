@@ -1335,6 +1335,7 @@
 
 ## others 
 
+- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [frenck/action-home-assistant](https://github.com/frenck/action-home-assistant) - 🚀 Frenck's GitHub Action for running a Home Assistant Core configuration check
 - [boychongzen18/Bug-Host-All-Operator](https://github.com/boychongzen18/Bug-Host-All-Operator) - 
 - [meh7an/Teleminal](https://github.com/meh7an/Teleminal) - Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connectio
