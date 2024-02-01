@@ -286,6 +286,7 @@
 
 ## JavaScript 
 
+- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [blueagler/DeepL-Crack](https://github.com/blueagler/DeepL-Crack) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
 - [meh7an/Teleminal](https://github.com/meh7an/Teleminal) - Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connectio
