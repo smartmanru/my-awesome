@@ -94,7 +94,7 @@
 - [lewis-weinberger/rice](https://github.com/lewis-weinberger/rice) - a collection of rice configs
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [Vayu/libfuse-android](https://github.com/Vayu/libfuse-android) - libfuse patched to compile for android
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [sureshsundriyal/kilo](https://github.com/sureshsundriyal/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [w-shackleton/arp-scan](https://github.com/w-shackleton/arp-scan) - The ARP Scanner
 - [SpryServers/WireGuard-Scripts](https://github.com/SpryServers/WireGuard-Scripts) - 
@@ -675,7 +675,7 @@
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
-- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [wladich/page2feed](https://github.com/wladich/page2feed) - Monitor changes of any web page create RSS feed
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
