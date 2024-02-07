@@ -459,7 +459,7 @@
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
@@ -647,6 +647,7 @@
 
 ## docker 
 
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -1000,7 +1001,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [TerryZ/SelectPage](https://github.com/TerryZ/SelectPage) - A simple style and powerful selector, including ajax remote data, autocomplete, pagination, tags, i18n and  keyboard navigation features
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -1097,6 +1098,7 @@
 
 ## linux 
 
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -1290,7 +1292,7 @@
 ## nodejs 
 
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
@@ -1390,7 +1392,7 @@
 - [machsix/Super-preloader](https://github.com/machsix/Super-preloader) - Userscript to enable autopagerizing as well as preloading
 - [Xposed-Modules-Repo/cn.kwaiching.hook](https://github.com/Xposed-Modules-Repo/cn.kwaiching.hook) - 要妳命三千Xposed模組
 - [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
-- [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
+- [Kong/mockbin](https://github.com/Kong/mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 - [ikws4/WeiJu2-Scripts](https://github.com/ikws4/WeiJu2-Scripts) - 
 - [GlUTEN-BASH/Flipper-Starnew](https://github.com/GlUTEN-BASH/Flipper-Starnew) - Универсальные, а также сервисные ключи StarNew в формате для Flipper Zero
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
@@ -1740,6 +1742,7 @@
 
 ## privacy 
 
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [soxoj/counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru) - Исчерпывающее руководство по приватности и контр-ОСИНТ для Рунета и всего СНГ 🇷🇺
@@ -1777,7 +1780,7 @@
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
 - [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -1948,6 +1951,7 @@
 
 ## self-hosted 
 
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -1969,6 +1973,7 @@
 
 ## server 
 
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [lus/pasty](https://github.com/lus/pasty) - pasty is a fast and lightweight code pasting server
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
