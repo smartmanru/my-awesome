@@ -1098,6 +1098,7 @@
 
 ## linux 
 
+- [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
