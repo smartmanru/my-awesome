@@ -448,6 +448,7 @@
 
 ## Others 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [frenck/action-home-assistant](https://github.com/frenck/action-home-assistant) - 🚀 Frenck's GitHub Action for running a Home Assistant Core configuration check
@@ -610,6 +611,7 @@
 
 ## Python 
 
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
