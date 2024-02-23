@@ -46,6 +46,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
@@ -138,6 +139,7 @@
 
 ## CSS 
 
+- [termuxprofessor/Storm-Breaker](https://github.com/termuxprofessor/Storm-Breaker) - Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
 - [Formicka/exchangerate.host](https://github.com/Formicka/exchangerate.host) - Exchange rates API is a simple and lightweight free service for current and historical foreign exchange rates & crypto exchange rates.
 - [netology-code/bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
 - [yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
@@ -158,6 +160,7 @@
 
 ## Dart 
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -170,6 +173,9 @@
 
 ## Go 
 
+- [jamescun/wg-api](https://github.com/jamescun/wg-api) - WG-API is a JSON-RPC Server for WireGuard
+- [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [TomWright/mermaid-server](https://github.com/TomWright/mermaid-server) - Go implementation of a HTTP server to allow remote generation of mermaid-js diagrams without any pre-requisites installed locally.
@@ -286,12 +292,13 @@
 
 ## JavaScript 
 
+- [TermuxHackz/zimbot-v4](https://github.com/TermuxHackz/zimbot-v4) - WhatsApp Bot with rich features
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [blueagler/DeepL-Crack](https://github.com/blueagler/DeepL-Crack) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
 - [meh7an/Teleminal](https://github.com/meh7an/Teleminal) - Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connectio
-- [roskomsvoboda/vpnlove](https://github.com/roskomsvoboda/vpnlove) - Repository for VPNLove
+- [vpn-love/vpnlove](https://github.com/vpn-love/vpnlove) - Repository for VPNLove
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -610,6 +617,9 @@
 
 ## Python 
 
+- [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
+- [termuxprofessor/Telegram-Scraper-Adder](https://github.com/termuxprofessor/Telegram-Scraper-Adder) - Python Script For Scarpe Telegram Members From Another Group And Add That Members To Your Group.
+- [JIYOXC/Ultroid](https://github.com/JIYOXC/Ultroid) - A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
@@ -792,6 +802,8 @@
 
 ## Shell 
 
+- [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
+- [termuxd-com/Button-Customizer](https://github.com/termuxd-com/Button-Customizer) - Button Customizer for termux
 - [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
@@ -895,6 +907,10 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [doortts/is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
 
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+
 ## Swift 
 
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
@@ -909,6 +925,7 @@
 
 ## TypeScript 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [sshrshnv/tgfeed](https://github.com/sshrshnv/tgfeed) - Read Telegram channels like a news feed.
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
