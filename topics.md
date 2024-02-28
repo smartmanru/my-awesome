@@ -419,6 +419,7 @@
 
 ## bot 
 
+- [b31ngd3v/instagram-auto-dm](https://github.com/b31ngd3v/instagram-auto-dm) - Python Program To Send Automatic DMs
 - [tm-a-t/AvatarEmojiBot](https://github.com/tm-a-t/AvatarEmojiBot) - Telegram bot. Generates custom emoji packs with avatars of group members
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [fabston/Telegram-Support-Bot](https://github.com/fabston/Telegram-Support-Bot) - 📬 Manage and organize all your support inquiries on Telegram.
@@ -1382,6 +1383,7 @@
 
 ## others 
 
+- [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [TermuxHackz/zimbot-v4](https://github.com/TermuxHackz/zimbot-v4) - WhatsApp Bot with rich features
 - [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
 - [termuxprofessor/Storm-Breaker](https://github.com/termuxprofessor/Storm-Breaker) - Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
@@ -1808,6 +1810,8 @@
 
 ## python 
 
+- [Oxlac/MR.DM](https://github.com/Oxlac/MR.DM) - A quick and easy tool for automating your Instagram DMs.
+- [b31ngd3v/instagram-auto-dm](https://github.com/b31ngd3v/instagram-auto-dm) - Python Program To Send Automatic DMs
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
 - [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
