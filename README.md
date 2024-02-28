@@ -453,6 +453,7 @@
 
 ## Others 
 
+- [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [GeneticallyModifiedAlex/Templates](https://github.com/GeneticallyModifiedAlex/Templates) - The Templates that Alex Users in obsidian, no sensitive information is held here only the templates that need to be standard in all obsidian vaults
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
@@ -617,6 +618,8 @@
 
 ## Python 
 
+- [Oxlac/MR.DM](https://github.com/Oxlac/MR.DM) - A quick and easy tool for automating your Instagram DMs.
+- [b31ngd3v/instagram-auto-dm](https://github.com/b31ngd3v/instagram-auto-dm) - Python Program To Send Automatic DMs
 - [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
 - [termuxprofessor/Telegram-Scraper-Adder](https://github.com/termuxprofessor/Telegram-Scraper-Adder) - Python Script For Scarpe Telegram Members From Another Group And Add That Members To Your Group.
 - [JIYOXC/Ultroid](https://github.com/JIYOXC/Ultroid) - A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
