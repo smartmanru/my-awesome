@@ -173,7 +173,7 @@
 
 ## Go 
 
-- [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL, CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations.
+- [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL/CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations.
 - [jamescun/wg-api](https://github.com/jamescun/wg-api) - WG-API is a JSON-RPC Server for WireGuard
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -931,6 +931,7 @@
 
 ## TypeScript 
 
+- [Pointauc/pointauc_frontend](https://github.com/Pointauc/pointauc_frontend) - 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [sshrshnv/tgfeed](https://github.com/sshrshnv/tgfeed) - Read Telegram channels like a news feed.
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
