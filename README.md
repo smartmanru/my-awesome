@@ -341,7 +341,7 @@
 - [jolaleye/altr-api](https://github.com/jolaleye/altr-api) - :wrench: (API) Transform your images, videos, and audio with ease
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
-- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [Binaryify/vue-qr](https://github.com/Binaryify/vue-qr) - The Vue Component for Awesome-qr.js
 - [sumimakito/Awesome-qr.js](https://github.com/sumimakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
 - [diced/github-readme-stats](https://github.com/diced/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -795,7 +795,7 @@
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/q/project:hikari-no-yume/touchHLE+status:open
+- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
