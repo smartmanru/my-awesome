@@ -246,7 +246,6 @@
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [vikdiesel/admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard) - Free Bulma Admin Dashboard Template HTML + CSS/SCSS
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
@@ -337,6 +336,7 @@
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [musicman3/eMarket](https://github.com/musicman3/eMarket) - eMarket Online Store. It is a free online shop engine. Make the best online shop with us. Join our Open Source community. Together we will make the best free e-commerce solution.
 - [albertincx/formatbot1](https://github.com/albertincx/formatbot1) - Make instant view easily and fast, from any article on the internet in the best messenger ever Telegram
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jolaleye/altr](https://github.com/jolaleye/altr) - :wrench: Transform your images, videos, and audio with ease
 - [jolaleye/altr-api](https://github.com/jolaleye/altr-api) - :wrench: (API) Transform your images, videos, and audio with ease
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
