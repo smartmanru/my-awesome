@@ -336,7 +336,6 @@
 - [chriszarate/bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [musicman3/eMarket](https://github.com/musicman3/eMarket) - eMarket Online Store. It is a free online shop engine. Make the best online shop with us. Join our Open Source community. Together we will make the best free e-commerce solution.
 - [albertincx/formatbot1](https://github.com/albertincx/formatbot1) - Make instant view easily and fast, from any article on the internet in the best messenger ever Telegram
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jolaleye/altr](https://github.com/jolaleye/altr) - :wrench: Transform your images, videos, and audio with ease
 - [jolaleye/altr-api](https://github.com/jolaleye/altr-api) - :wrench: (API) Transform your images, videos, and audio with ease
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
@@ -962,6 +961,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [AlphaNecron/Void](https://github.com/AlphaNecron/Void) - Fast and elegant file hosting service.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
