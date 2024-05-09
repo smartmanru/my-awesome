@@ -97,6 +97,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -1196,6 +1197,10 @@
 - [fnzv/trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
+
+## llm 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
 ## low-code 
 
