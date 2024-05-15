@@ -105,7 +105,7 @@
 - [phinfinity/router_tproxy](https://github.com/phinfinity/router_tproxy) - Transparent Proxy configuration for DD-WRT router
 - [lattera/dd-wrt](https://github.com/lattera/dd-wrt) - 
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
-- [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 
 ## C# # 
 
@@ -292,6 +292,7 @@
 
 ## JavaScript 
 
+- [BlackHacked/telegram_media_downloader](https://github.com/BlackHacked/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [TermuxHackz/zimbot-v4](https://github.com/TermuxHackz/zimbot-v4) - WhatsApp Bot with rich features
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
