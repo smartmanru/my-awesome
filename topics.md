@@ -611,7 +611,7 @@
 ## database 
 
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Business database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interfac
+- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interf
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
@@ -1215,7 +1215,7 @@
 ## low-code 
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Business database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interfac
+- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interf
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1809,7 +1809,7 @@
 
 ## php 
 
-- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Business database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interfac
+- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interf
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP (Linux + Apache + MySQL/MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu
 - [Studio-42/elFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
@@ -1825,7 +1825,7 @@
 
 - [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Иинтернет магазин @durgerkingbot telegram бота https://t.me/SacredDev
 - [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
-- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Business database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interfac
+- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interf
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
