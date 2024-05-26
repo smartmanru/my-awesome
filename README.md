@@ -582,7 +582,7 @@
 ## PHP 
 
 - [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) - 
-- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Business database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interfac
+- [totumonline/totum-mit](https://github.com/totumonline/totum-mit) - Small-code database for non-programmers. Universal UI, simple-code logic, automatic actions, access rules, logging, API and more. Quickly create a complex internal apps using the database as an interf
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [wudi/swoole-ide-helper](https://github.com/wudi/swoole-ide-helper) - Auto completion, trigger suggest and view docs for Swoole in editor.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
