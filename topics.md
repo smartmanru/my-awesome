@@ -549,7 +549,6 @@
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
-- [Tabrizian/ceit93bot-cli](https://github.com/Tabrizian/ceit93bot-cli) - Manage your telegram channel directly from CLI.
 - [SPR-CPU-ORG/F80](https://github.com/SPR-CPU-ORG/F80) - A Professional Telegram-Bot Based On valtman.name/telegram-cli
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 
@@ -2228,7 +2227,6 @@
 - [amanmj/PC-Remote-Control](https://github.com/amanmj/PC-Remote-Control) - A telegram bot to remotely control anyone's PC remotely through your phone/PC.
 - [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
 - [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
-- [Tabrizian/ceit93bot-cli](https://github.com/Tabrizian/ceit93bot-cli) - Manage your telegram channel directly from CLI.
 - [doortts/is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
 - [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 - [rahiel/telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
