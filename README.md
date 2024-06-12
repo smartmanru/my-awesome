@@ -712,7 +712,6 @@
 - [qsniyg/rssit](https://github.com/qsniyg/rssit) - RSS Feed Generator
 - [idank/bashlex](https://github.com/idank/bashlex) - Python parser for bash
 - [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
-- [civsocit/olgram](https://github.com/civsocit/olgram) - Конструктор ботов обратной связи. Open source альтернатива Livegram бота. Telegram feedback bot constructor.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [smartmanru/aiogram](https://github.com/smartmanru/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
