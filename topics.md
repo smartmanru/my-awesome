@@ -34,6 +34,7 @@
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -574,6 +575,10 @@
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
+
+## cryptography 
+
+- [deemru/Chromium-Gost](https://github.com/deemru/Chromium-Gost) - Chromium с поддержкой алгоритмов ГОСТ
 
 ## csharp 
 
@@ -1586,7 +1591,6 @@
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
-- [deemru/Chromium-Gost](https://github.com/deemru/Chromium-Gost) - Chromium с поддержкой алгоритмов ГОСТ
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [Redecorating/EndeavourOS-mbp](https://github.com/Redecorating/EndeavourOS-mbp) - Build modified EndeavourOS ISO, for use with Macs that have the T2 security chip (2018-2020).
 - [Jiesean/ANCSReader](https://github.com/Jiesean/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
