@@ -15,6 +15,7 @@
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [aspnet](#aspnet)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -286,6 +287,10 @@
 ## aspnet 
 
 - [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+
+## atom 
+
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 
 ## automation 
 
@@ -602,7 +607,7 @@
 
 ## data 
 
-- [google-admin/data-transfer-project](https://github.com/google-admin/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
+- [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 
 ## data-science 
 
