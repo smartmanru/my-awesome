@@ -271,7 +271,7 @@
 - [AlexMercier/AdminToolsForTelegram](https://github.com/AlexMercier/AdminToolsForTelegram) - 
 - [excelsi0r/SteamLinkBluetoothKeybordMouseCompanion](https://github.com/excelsi0r/SteamLinkBluetoothKeybordMouseCompanion) - Steam link Bluetooth controller Companion. Support for keyboard and mouse.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [google-admin/data-transfer-project](https://github.com/google-admin/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
+- [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project) - The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable dire
 - [ac-pm/ProxyOn](https://github.com/ac-pm/ProxyOn) - Android Xposed Module to apply proxy for a specific app.
 - [iipc/openwayback](https://github.com/iipc/openwayback) - The OpenWayback Development
 - [bauerjj/Android-Simple-Bluetooth-Example](https://github.com/bauerjj/Android-Simple-Bluetooth-Example) - Simple Android Bluetooth example to turn on/off radio and to view and connect with devices. Has associated code to connect to an Arduino.
