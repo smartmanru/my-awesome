@@ -1686,7 +1686,7 @@
 - [beverloo/peter.sh](https://github.com/beverloo/peter.sh) - Source-code for http://peter.sh/.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [nikandlv/postman-patcher](https://github.com/nikandlv/postman-patcher) - Allows postman to render javascript in preview
-- [JamieCruwys/bash-menu-generator](https://github.com/JamieCruwys/bash-menu-generator) - A simple bash script that will generate menus
+- [jamiescode/bash-menu-generator](https://github.com/jamiescode/bash-menu-generator) - A simple bash script that will generate menus
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [lewis-weinberger/rice](https://github.com/lewis-weinberger/rice) - a collection of rice configs
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
