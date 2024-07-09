@@ -1746,6 +1746,7 @@
 - [scottsperry/ddwrt-scripts](https://github.com/scottsperry/ddwrt-scripts) - scripts for use in conjunction with dd-wrt
 - [LiquidVPN-inc/dd-wrt-openvpn-config-creator](https://github.com/LiquidVPN-inc/dd-wrt-openvpn-config-creator) - Create DD-WRT OpenVPN Configurations for virtually all VPN services that rely on username and password to connect.
 - [trevorndodds/dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [521xueweihan/shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku) - 本项目已删除
 - [mosmetro-android/mosmetro-python](https://github.com/mosmetro-android/mosmetro-python) - Скрипт для автоматической авторизации в сетях московского общественного транспорта
 - [DesignativeDave/androrat](https://github.com/DesignativeDave/androrat) - Remote Administration Tool for Android devices
@@ -2293,7 +2294,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
