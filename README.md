@@ -789,6 +789,7 @@
 
 ## Rust 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -929,7 +930,6 @@
 ## TypeScript 
 
 - [Pointauc/pointauc_frontend](https://github.com/Pointauc/pointauc_frontend) - 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [sshrshnv/tgfeed](https://github.com/sshrshnv/tgfeed) - Read Telegram channels like a news feed.
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
