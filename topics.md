@@ -25,6 +25,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -474,6 +475,13 @@
 - [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
 - [ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
 - [abdelhai/awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
+
+## bugbounty 
+
+- [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 
 ## c 
 
