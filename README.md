@@ -630,7 +630,7 @@
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [tm-a-t/AvatarEmojiBot](https://github.com/tm-a-t/AvatarEmojiBot) - Telegram bot. Generates custom emoji packs with avatars of group members
-- [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
+- [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [ryancollingwood/diablo_4_armory_fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Collect your Diablo 4 character changes from https://d4armory.io/ automatically using github actions
 - [mishamyrt/ha-keychron](https://github.com/mishamyrt/ha-keychron) - 🎹 Keychron Home Assistant integration
@@ -667,6 +667,7 @@
 - [PGAndre/InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [RicharSte/hh_auto_click](https://github.com/RicharSte/hh_auto_click) - 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [Beej126/openconnect-sso-windows-csd](https://github.com/Beej126/openconnect-sso-windows-csd) - forked openconnect-sso to include @impynutz CSD support & Windows specific build instructions
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [redsymbol/json2yaml](https://github.com/redsymbol/json2yaml) - Simple command line tool to convert JSON to YAML
@@ -832,7 +833,6 @@
 - [sickcodes/droid-native](https://github.com/sickcodes/droid-native) - Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [ocochard/graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [rtrouton/rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts) - Scripts to share
