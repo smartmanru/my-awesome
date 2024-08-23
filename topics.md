@@ -1690,7 +1690,6 @@
 - [smartmanru/sturdy-octo-barnacle](https://github.com/smartmanru/sturdy-octo-barnacle) - 
 - [smartmanru/sturdy-octo-barnacle1](https://github.com/smartmanru/sturdy-octo-barnacle1) - 
 - [smartmanru/osctrl-docs](https://github.com/smartmanru/osctrl-docs) - Documentation for osctrl
-- [smartmanru/DeepFaceLab](https://github.com/smartmanru/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
 - [smartmanru/clash](https://github.com/smartmanru/clash) - A rule-based tunnel in Go.
 - [smartmanru/awesome-shell](https://github.com/smartmanru/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [smartmanru/hello-github-actions](https://github.com/smartmanru/hello-github-actions) - 
