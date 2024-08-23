@@ -737,7 +737,6 @@
 - [friendly-telegram/modules-repo](https://github.com/friendly-telegram/modules-repo) - REPOSITORY MOVED
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
-- [smartmanru/DeepFaceLab](https://github.com/smartmanru/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
 - [smartmanru/informer](https://github.com/smartmanru/informer) - A Telegram Mass Surveillance Bot in Python
 - [hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
 - [nikandlv/postman-patcher](https://github.com/nikandlv/postman-patcher) - Allows postman to render javascript in preview
