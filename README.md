@@ -456,7 +456,6 @@
 
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [GeneticallyModifiedAlex/Templates](https://github.com/GeneticallyModifiedAlex/Templates) - The Templates that Alex Users in obsidian, no sensitive information is held here only the templates that need to be standard in all obsidian vaults
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [frenck/action-home-assistant](https://github.com/frenck/action-home-assistant) - 🚀 Frenck's GitHub Action for running a Home Assistant Core configuration check
@@ -631,7 +630,7 @@
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [tm-a-t/AvatarEmojiBot](https://github.com/tm-a-t/AvatarEmojiBot) - Telegram bot. Generates custom emoji packs with avatars of group members
-- [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
+- [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE 框架，你的工作从未如此简单快捷。
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [ryancollingwood/diablo_4_armory_fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Collect your Diablo 4 character changes from https://d4armory.io/ automatically using github actions
 - [mishamyrt/ha-keychron](https://github.com/mishamyrt/ha-keychron) - 🎹 Keychron Home Assistant integration
