@@ -1405,7 +1405,6 @@
 
 ## nextjs 
 
-- [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -1455,7 +1454,6 @@
 ## open-source 
 
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
-- [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template) - This is a scalable and functional template for any bots which will be made with aiogram 3.x
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
@@ -1892,7 +1890,6 @@
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [soxoj/counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru) - Исчерпывающее руководство по приватности и контр-ОСИНТ для Рунета и всего СНГ 🇷🇺
-- [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [l-n-s/wireguard-install](https://github.com/l-n-s/wireguard-install) - WireGuard VPN server installer
@@ -2107,7 +2104,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
