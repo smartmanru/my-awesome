@@ -504,7 +504,7 @@
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф, включая подготовку к собеседованию
 - [HearthSim/hsdata](https://github.com/HearthSim/hsdata) - Hearthstone Data
-- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
+- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia/Tutorial rápido do WSL2 + Docker
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
 - [znhv/ru-awesome-devops](https://github.com/znhv/ru-awesome-devops) - Список с актуальной документацией для DevOps
