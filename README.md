@@ -125,7 +125,6 @@
 - [Aseman-Land/QtAV](https://github.com/Aseman-Land/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops.
 - [Aseman-Land/qhttp](https://github.com/Aseman-Land/qhttp) - a light-weight and asynchronous HTTP library (both server & client) in Qt5 and c++14
 - [xintrea/mytetra_dev](https://github.com/xintrea/mytetra_dev) - MyTetra - smart crossplatform manager for information collecting / MyTetra - кроссплатформенный менеджер накопления информации / Официальная страница:
-- [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [deemru/Chromium-Gost](https://github.com/deemru/Chromium-Gost) - Chromium с поддержкой алгоритмов ГОСТ
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
@@ -490,6 +489,7 @@
 - [UberGuidoZ/awesome-flipperzero](https://github.com/UberGuidoZ/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [TeamFiles/TeamFiles-Launcher](https://github.com/TeamFiles/TeamFiles-Launcher) - A launcher which aims to provide stability, speed & customization.
+- [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [alloc8or/gta5-nativedb-data](https://github.com/alloc8or/gta5-nativedb-data) - A database of all GTAV script commands ("natives"). Strictly for educational purposes! https://alloc8or.re/gta5/nativedb/
 - [Bobronium/bearable-windows-experience](https://github.com/Bobronium/bearable-windows-experience) - A lifeline for people dealing with Windows, especially after using macOS.
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
