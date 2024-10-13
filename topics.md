@@ -396,7 +396,7 @@
 
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, P
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -689,7 +689,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [znhv/ru-awesome-devops](https://github.com/znhv/ru-awesome-devops) - Список с актуальной документацией для DevOps
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -995,7 +995,6 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
@@ -1286,7 +1285,7 @@
 ## machine-learning 
 
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
@@ -1375,7 +1374,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP (Linux + Apache + MySQL/MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
@@ -1882,7 +1881,7 @@
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 
@@ -2200,7 +2199,7 @@
 ## sql 
 
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+- [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
