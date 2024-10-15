@@ -260,7 +260,7 @@
 - [aimardcr/APKSignReader](https://github.com/aimardcr/APKSignReader) - An android application to read signatures on installed apps.
 - [DrKLO/TelegramStickersImport](https://github.com/DrKLO/TelegramStickersImport) - 
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A multifunctional Android code editor library. (aka CodeEditor)
-- [brookwang1/ANCSReader](https://github.com/brookwang1/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
+- [brookwillow/ANCSReader](https://github.com/brookwillow/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
 - [LonamiWebs/Stringlate](https://github.com/LonamiWebs/Stringlate) - Android application to help in strings.xml translation
 - [grishka/Houseclub](https://github.com/grishka/Houseclub) - A barebones unofficial Android app for Clubhouse
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
