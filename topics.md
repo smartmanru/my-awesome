@@ -1644,7 +1644,7 @@
 - [juvirez/yandex-music-app](https://github.com/juvirez/yandex-music-app) - Неофициальное приложение Яндекс Музыка для MacOS
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [Redecorating/EndeavourOS-mbp](https://github.com/Redecorating/EndeavourOS-mbp) - Build modified EndeavourOS ISO, for use with Macs that have the T2 security chip (2018-2020).
-- [brookwang1/ANCSReader](https://github.com/brookwang1/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
+- [brookwillow/ANCSReader](https://github.com/brookwillow/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
 - [tyllj/Roar](https://github.com/tyllj/Roar) - 
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
