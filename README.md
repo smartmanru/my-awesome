@@ -413,7 +413,7 @@
 
 ## Lua 
 
-- [raexera/yoru](https://github.com/raexera/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [ikws4/WeiJu2-Scripts](https://github.com/ikws4/WeiJu2-Scripts) - 
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
