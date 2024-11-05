@@ -678,7 +678,7 @@
 - [rafal-qa/page-walker](https://github.com/rafal-qa/page-walker) - Chrome DevTools automation for desktop and mobile devices
 - [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими устройствами умного дома с Алисой из Home Assistant
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [aiogram/tg-codegen](https://github.com/aiogram/tg-codegen) - Code generator for aiogram 3.x with parser of Telegram Bot API docs
 - [lyteloli/NekoGram](https://github.com/lyteloli/NekoGram) - A wrapper over AIOGram that makes creation of Telegram bots even easier
 - [ContainerSolutions/prom-metrics-check](https://github.com/ContainerSolutions/prom-metrics-check) - 
