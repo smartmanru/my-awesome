@@ -684,6 +684,7 @@
 - [ContainerSolutions/prom-metrics-check](https://github.com/ContainerSolutions/prom-metrics-check) - 
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [AlexMKX/mrvpn](https://github.com/AlexMKX/mrvpn) - Multi-Route VPN
@@ -840,7 +841,6 @@
 - [WoozyMasta/kube-dump](https://github.com/WoozyMasta/kube-dump) - Backup a Kubernetes cluster as a yaml manifest
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [schickling/dockerfiles](https://github.com/schickling/dockerfiles) - Collection of lightweight and ready-to-use docker images
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
