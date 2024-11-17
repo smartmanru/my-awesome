@@ -632,6 +632,7 @@
 - [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE，安卓 RPA 机器人框架，下一代移动端数据自动化机器人。
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [ryancollingwood/diablo_4_armory_fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Collect your Diablo 4 character changes from https://d4armory.io/ automatically using github actions
+- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [mishamyrt/ha-keychron](https://github.com/mishamyrt/ha-keychron) - 🎹 Keychron Home Assistant integration
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
@@ -811,7 +812,6 @@
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
 - [termuxd-com/Button-Customizer](https://github.com/termuxd-com/Button-Customizer) - Button Customizer for termux
-- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
 - [aw1cks/openconnect](https://github.com/aw1cks/openconnect) - OpenConnect VPN running in Docker.
 - [kvazis/hassos](https://github.com/kvazis/hassos) - New server - Intel N100, proxmox + HASSOS
