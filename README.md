@@ -243,6 +243,7 @@
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [vikdiesel/admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard) - Free Bulma Admin Dashboard Template HTML + CSS/SCSS
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
@@ -513,7 +514,6 @@
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [zhashkevych/awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [pluresque/awesome-aiogram](https://github.com/pluresque/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources
 - [sfx101/awesome-docker](https://github.com/sfx101/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
