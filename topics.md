@@ -1525,7 +1525,6 @@
 - [meh7an/Teleminal](https://github.com/meh7an/Teleminal) - Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connectio
 - [ryancollingwood/diablo_4_armory_fetcher](https://github.com/ryancollingwood/diablo_4_armory_fetcher) - Collect your Diablo 4 character changes from https://d4armory.io/ automatically using github actions
 - [ileygb8cwqogn8c/different_lists](https://github.com/ileygb8cwqogn8c/different_lists) - Огромные и эффективные словари для брута
-- [vpn-love/vpnlove](https://github.com/vpn-love/vpnlove) - Repository for VPNLove
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [aw1cks/openconnect](https://github.com/aw1cks/openconnect) - OpenConnect VPN running in Docker.
