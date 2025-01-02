@@ -141,6 +141,7 @@
 - [yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
 - [extratone/t](https://github.com/extratone/t) - My collection of Telegram themes, documentation, plugins, etc.
 - [HackTricks-wiki/hacktricks-cloud](https://github.com/HackTricks-wiki/hacktricks-cloud) - 
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [smartmanru/osctrl-docs](https://github.com/smartmanru/osctrl-docs) - Documentation for osctrl
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -672,7 +673,6 @@
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [redsymbol/json2yaml](https://github.com/redsymbol/json2yaml) - Simple command line tool to convert JSON to YAML
 - [redsymbol/linkcheck](https://github.com/redsymbol/linkcheck) - (pre-alpha - do not use) Check for broken links on website. Built for CI/devops automation
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [timsutton/mcxToProfile](https://github.com/timsutton/mcxToProfile) - Convert macOS property lists, defaults and MCX into Configuration Profiles with Custom Settings payloads
 - [rafal-qa/page-walker](https://github.com/rafal-qa/page-walker) - Chrome DevTools automation for desktop and mobile devices
 - [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими устройствами умного дома с Алисой из Home Assistant
