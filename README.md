@@ -140,8 +140,6 @@
 - [netology-code/bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
 - [yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
 - [extratone/t](https://github.com/extratone/t) - My collection of Telegram themes, documentation, plugins, etc.
-- [HackTricks-wiki/hacktricks-cloud](https://github.com/HackTricks-wiki/hacktricks-cloud) - 
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [smartmanru/osctrl-docs](https://github.com/smartmanru/osctrl-docs) - Documentation for osctrl
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -294,7 +292,7 @@
 - [TermuxHackz/zimbot-v4](https://github.com/TermuxHackz/zimbot-v4) - WhatsApp Bot with rich features
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR virtual workspace library for Linux
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Bypass 5,000 characters, Remove edit restriction, Use DeepL Pro Account Cookies/DeepL Api Free Token to translate, Unlock Formal/informal tone, Randomize fingerprint
@@ -316,6 +314,8 @@
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [UberGuidoZ/DownGit](https://github.com/UberGuidoZ/DownGit) - Create GitHub Resource Download Link
+- [HackTricks-wiki/hacktricks-cloud](https://github.com/HackTricks-wiki/hacktricks-cloud) - 
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [zhovner/zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [ekymoz/homeRoughEditor](https://github.com/ekymoz/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
