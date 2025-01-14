@@ -899,7 +899,7 @@
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [jakev/android-binaries](https://github.com/jakev/android-binaries) - Binaries compiled for ARM
 - [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
-- [anandslab/AtoMiC-ToolKit](https://github.com/anandslab/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, 
+- [SimpleHomelab/AtoMiC-ToolKit](https://github.com/SimpleHomelab/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, 
 - [scottsperry/ddwrt-scripts](https://github.com/scottsperry/ddwrt-scripts) - scripts for use in conjunction with dd-wrt
 - [LiquidVPN-inc/dd-wrt-openvpn-config-creator](https://github.com/LiquidVPN-inc/dd-wrt-openvpn-config-creator) - Create DD-WRT OpenVPN Configurations for virtually all VPN services that rely on username and password to connect.
 - [trevorndodds/dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
