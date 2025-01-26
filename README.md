@@ -981,7 +981,7 @@
 - [vimhack/dotfiles](https://github.com/vimhack/dotfiles) - 🍀 Vim/Neovim + Tmux + Zsh + Alacritty = Build your own fantastic development environment
 - [pete911/commands](https://github.com/pete911/commands) - 
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
+- [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 
 ## Visual Basic 6.0 
 
