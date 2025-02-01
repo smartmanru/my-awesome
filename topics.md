@@ -827,7 +827,7 @@
 
 ## flask 
 
-- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done..
+- [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done. Installing software, creating backups, custom functions, configurations etc.
 - [tux-00/routemanager](https://github.com/tux-00/routemanager) - Manage routes to deal with overlapping networks.
 
 ## flutter 
