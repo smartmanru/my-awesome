@@ -63,6 +63,7 @@
 - [electron](#electron)
 - [emoji](#emoji)
 - [es6](#es6)
+- [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -816,6 +817,10 @@
 ## es6 
 
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
+
+## facebook 
+
+- [mecitsem/Arf-HashtagBot](https://github.com/mecitsem/Arf-HashtagBot) - Send a photo and generate auto hashtag for your photos with this bot on Facebook, Telegram and Skype channels.
 
 ## firefox 
 
