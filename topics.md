@@ -2425,6 +2425,7 @@
 
 ## vpn 
 
+- [yandex-cloud-examples/yc-remote-acess-vpn-with-wireguard-firezone](https://github.com/yandex-cloud-examples/yc-remote-acess-vpn-with-wireguard-firezone) - Развертывание Remote access VPN на основе WireGuard с помощью решения Firezone.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
 - [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
