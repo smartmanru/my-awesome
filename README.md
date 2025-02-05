@@ -222,6 +222,7 @@
 
 ## HCL 
 
+- [yandex-cloud-examples/yc-remote-acess-vpn-with-wireguard-firezone](https://github.com/yandex-cloud-examples/yc-remote-acess-vpn-with-wireguard-firezone) - Развертывание Remote access VPN на основе WireGuard с помощью решения Firezone.
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, P
 
 ## HTML 
