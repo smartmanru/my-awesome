@@ -618,6 +618,7 @@
 
 ## Python 
 
+- [MasterGroosha/telegram-feedback-bot-topics](https://github.com/MasterGroosha/telegram-feedback-bot-topics) - Пример бота обратной связи с использованием БД и «форумов» в Telegram
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [Oxlac/MR.DM](https://github.com/Oxlac/MR.DM) - A quick and easy tool for automating your Instagram DMs.
