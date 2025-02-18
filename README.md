@@ -367,7 +367,6 @@
 - [CSSSR/csssr-project-template](https://github.com/CSSSR/csssr-project-template) - [deprecated] Шаблон проекта для быстрого старта.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [volumio/Volumio2](https://github.com/volumio/Volumio2) - Volumio 2 - Audiophile Music Player
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [tux-00/routemanager](https://github.com/tux-00/routemanager) - Manage routes to deal with overlapping networks.
 - [AtNovember/starcraft-sound-bot](https://github.com/AtNovember/starcraft-sound-bot) - Node.js sound bot for telegram, sended sounds from old StarCraft remastered game (Russian dubbing)
@@ -968,6 +967,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 
 ## VBScript 
 
