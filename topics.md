@@ -1714,7 +1714,7 @@
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
 - [wk8/knife-bash-autocomplete](https://github.com/wk8/knife-bash-autocomplete) - Add or source that file in your bash profile to enable sensible completion for Chef's knife command.
 - [samlaudev/ConfigurationFiles](https://github.com/samlaudev/ConfigurationFiles) - configuration files, such as repo (download android source file)、.git-completion.bash(git autocomplete bash)
-- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [smartmanru/Androl4b](https://github.com/smartmanru/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 - [friendly-telegram/modules-repo](https://github.com/friendly-telegram/modules-repo) - REPOSITORY MOVED
