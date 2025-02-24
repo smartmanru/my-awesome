@@ -92,7 +92,7 @@
 - [lewis-weinberger/rice](https://github.com/lewis-weinberger/rice) - a collection of rice configs
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [Vayu/libfuse-android](https://github.com/Vayu/libfuse-android) - libfuse patched to compile for android
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [sureshsundriyal/kilo](https://github.com/sureshsundriyal/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [w-shackleton/arp-scan](https://github.com/w-shackleton/arp-scan) - The ARP Scanner
 - [SpryServers/WireGuard-Scripts](https://github.com/SpryServers/WireGuard-Scripts) - 
