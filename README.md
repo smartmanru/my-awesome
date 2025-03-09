@@ -683,7 +683,7 @@
 - [aiogram/tg-codegen](https://github.com/aiogram/tg-codegen) - Code generator for aiogram 3.x with parser of Telegram Bot API docs
 - [lyteloli/NekoGram](https://github.com/lyteloli/NekoGram) - A wrapper over AIOGram that makes creation of Telegram bots even easier
 - [ContainerSolutions/prom-metrics-check](https://github.com/ContainerSolutions/prom-metrics-check) - 
-- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
+- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
