@@ -247,6 +247,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [vikdiesel/admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard) - Free Bulma Admin Dashboard Template HTML + CSS/SCSS
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [jaredwilli/devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) - 
@@ -529,7 +530,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -828,7 +828,7 @@
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote m
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [sickcodes/droid-native](https://github.com/sickcodes/droid-native) - Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
