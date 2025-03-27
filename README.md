@@ -322,7 +322,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [zhovner/zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
-- [ekymoz/homeRoughEditor](https://github.com/ekymoz/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
+- [ekymo/homeRoughEditor](https://github.com/ekymo/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [sindresorhus/super-regex](https://github.com/sindresorhus/super-regex) - Make a regular expression time out if it takes too long to execute
