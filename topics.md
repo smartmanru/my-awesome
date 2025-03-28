@@ -843,6 +843,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## font 
 
@@ -1634,7 +1635,7 @@
 - [schickling/dockerfiles](https://github.com/schickling/dockerfiles) - Collection of lightweight and ready-to-use docker images
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [jovotech/awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps) - 🕶 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
-- [ekymoz/homeRoughEditor](https://github.com/ekymoz/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
+- [ekymo/homeRoughEditor](https://github.com/ekymo/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
 - [smartmanru/wg-easy](https://github.com/smartmanru/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [smartmanru/tools](https://github.com/smartmanru/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
