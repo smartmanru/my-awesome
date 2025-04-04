@@ -298,7 +298,7 @@
 
 ## aspnet 
 
-- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
 
 ## atom 
 
@@ -1570,7 +1570,7 @@
 - [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 - [ikws4/WeiJu2-Scripts](https://github.com/ikws4/WeiJu2-Scripts) - 
-- [GlUTEN-BASH/Flipper-Starnew](https://github.com/GlUTEN-BASH/Flipper-Starnew) - Универсальные, а также сервисные ключи StarNew в формате для Flipper Zero
+- [glutesha/Flipper-Starnew](https://github.com/glutesha/Flipper-Starnew) - Универсальные, а также сервисные ключи StarNew в формате для Flipper Zero
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [curi0usJack/Ansible-SSH-Conf](https://github.com/curi0usJack/Ansible-SSH-Conf) - Uses Ansible to generate a new EC2 instance then an SSH conf file for that instance.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
