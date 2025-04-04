@@ -109,7 +109,7 @@
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [kolei/PiRIS](https://github.com/kolei/PiRIS) - Проектирование и Разработка Информационных Систем
 - [mecitsem/Arf-HashtagBot](https://github.com/mecitsem/Arf-HashtagBot) - Send a photo and generate auto hashtag for your photos with this bot on Facebook, Telegram and Skype channels.
-- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 
@@ -480,7 +480,7 @@
 - [Xposed-Modules-Repo/cn.kwaiching.hook](https://github.com/Xposed-Modules-Repo/cn.kwaiching.hook) - 要妳命三千Xposed模組
 - [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [GlUTEN-BASH/Flipper-Starnew](https://github.com/GlUTEN-BASH/Flipper-Starnew) - Универсальные, а также сервисные ключи StarNew в формате для Flipper Zero
+- [glutesha/Flipper-Starnew](https://github.com/glutesha/Flipper-Starnew) - Универсальные, а также сервисные ключи StarNew в формате для Flipper Zero
 - [curi0usJack/Ansible-SSH-Conf](https://github.com/curi0usJack/Ansible-SSH-Conf) - Uses Ansible to generate a new EC2 instance then an SSH conf file for that instance.
 - [FilimonovAlexey/FilimonovAlexey](https://github.com/FilimonovAlexey/FilimonovAlexey) - Файлы разметки главной страницы GitHub профиля
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - 📃 White paper for Backend developers
