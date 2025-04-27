@@ -181,6 +181,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [termux](#termux)
 - [terraform](#terraform)
@@ -1227,6 +1228,7 @@
 
 ## linux 
 
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [jamescun/wg-api](https://github.com/jamescun/wg-api) - WG-API is a JSON-RPC Server for WireGuard
@@ -1639,7 +1641,6 @@
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [Zackptg5/Keycheck](https://github.com/Zackptg5/Keycheck) - Keycheck binary from: https://github.com/sonyxperiadev/device-sony-common-init/tree/master/keycheck
-- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 - [schickling/awesome-local-first](https://github.com/schickling/awesome-local-first) - A collection of awesome local-first projects including offline-first and collaboration functionality
 - [schickling/colorrado](https://github.com/schickling/colorrado) - Beautiful color gradients based on images
 - [schickling/dockerfiles](https://github.com/schickling/dockerfiles) - Collection of lightweight and ready-to-use docker images
@@ -1841,7 +1842,6 @@
 - [aoleg94/playkey-linux-monkeypatch](https://github.com/aoleg94/playkey-linux-monkeypatch) - 
 - [itsumma/itstelegram](https://github.com/itsumma/itstelegram) - Telegram Desktop messaging app
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
-- [yukuku/telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine.
 - [enricostara/telegram.link](https://github.com/enricostara/telegram.link) - Telegram API library (javascript, node.js)
 - [OpenSourceConsulting/atlassian-apps](https://github.com/OpenSourceConsulting/atlassian-apps) - 
 - [get-a-clue/instagram_likebot](https://github.com/get-a-clue/instagram_likebot) - Instagram like bot example
@@ -1852,8 +1852,6 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [google/web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [google/autoparse](https://github.com/google/autoparse) - A dynamically generated parsing system using JSON Schema.
-- [kamikazechaser/ServerBot](https://github.com/kamikazechaser/ServerBot) - :bulb: A Telegram Bot For Checking Server Statistics And Information.
-- [danyspin97/MyAddressBookBot](https://github.com/danyspin97/MyAddressBookBot) - A Telegram Bot that works as an address book of usernames.
 - [egorvas/email2telegram](https://github.com/egorvas/email2telegram) - Simple heroku button to configure bot which will sent emails to telegram
 - [fmarotta/telegram-bots](https://github.com/fmarotta/telegram-bots) - A set of bots to integrate Raspberry Pi management, email reading and rss feed updates within Telegram.
 - [thevietto/Mail-to-Telegram-resender](https://github.com/thevietto/Mail-to-Telegram-resender) - Simple email to telegram bot resender
@@ -1926,6 +1924,7 @@
 
 ## privacy 
 
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -2119,6 +2118,7 @@
 
 ## security 
 
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -2147,6 +2147,7 @@
 
 ## self-hosted 
 
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
@@ -2336,6 +2337,49 @@
 - [abdelhai/awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
 - [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 
+## telegram-bot 
+
+- [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
+- [Easterok/telegram-onboarding-kit](https://github.com/Easterok/telegram-onboarding-kit) - A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots
+- [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
+- [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
+- [mikurei/ticketgram](https://github.com/mikurei/ticketgram) - Telegram Support Bot
+- [ohld/django-telegram-bot](https://github.com/ohld/django-telegram-bot) - My sexy Django + python-telegram-bot + Celery + Redis + Postgres + Dokku + GitHub Actions template
+- [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
+- [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
+- [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
+- [Stuchalin/certcheckerbot](https://github.com/Stuchalin/certcheckerbot) - Simple telegram bot for check certificate expiry dates
+- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
+- [kdrag0n/pyrobud](https://github.com/kdrag0n/pyrobud) - A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients.
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
+- [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
+- [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
+- [albertincx/formatbot1](https://github.com/albertincx/formatbot1) - Make instant view easily and fast, from any article on the internet in the best messenger ever Telegram
+- [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
+- [pluresque/awesome-aiogram](https://github.com/pluresque/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
+- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [Sea-n/Android-TG-Bot](https://github.com/Sea-n/Android-TG-Bot) - Awesome Telegram Bot (Android Application)
+- [yukuku/telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine.
+- [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
+- [amanmj/PC-Remote-Control](https://github.com/amanmj/PC-Remote-Control) - A telegram bot to remotely control anyone's PC remotely through your phone/PC.
+- [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
+- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
+- [rizaumami/merbot](https://github.com/rizaumami/merbot) - Telegram Group Administration Bot
+- [michaelimfeld/ownbot](https://github.com/michaelimfeld/ownbot) - Easy to use python module to create private telegram bots.
+- [kamikazechaser/ServerBot](https://github.com/kamikazechaser/ServerBot) - :bulb: A Telegram Bot For Checking Server Statistics And Information.
+- [danyspin97/MyAddressBookBot](https://github.com/danyspin97/MyAddressBookBot) - A Telegram Bot that works as an address book of usernames.
+- [doortts/is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
+- [SPR-CPU-ORG/F80](https://github.com/SPR-CPU-ORG/F80) - A Professional Telegram-Bot Based On valtman.name/telegram-cli
+- [k13w/teleGit](https://github.com/k13w/teleGit) - Telegram Bot in Python
+- [Fillll/pockebot](https://github.com/Fillll/pockebot) - Read It Later for Telegram
+- [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
+- [ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
+- [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
+
 ## terminal 
 
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -2444,6 +2488,7 @@
 
 ## vpn 
 
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 - [yandex-cloud-examples/yc-remote-acess-vpn-with-wireguard-firezone](https://github.com/yandex-cloud-examples/yc-remote-acess-vpn-with-wireguard-firezone) - Развертывание Remote access VPN на основе WireGuard с помощью решения Firezone.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
