@@ -1571,7 +1571,7 @@
 - [Firemoon777/dialog-sticker-bot](https://github.com/Firemoon777/dialog-sticker-bot) - 
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [jarhot1992/Remote-ADB](https://github.com/jarhot1992/Remote-ADB) - This is a powerful mobile adb shell & Toolbox.
-- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid) - A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
+- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid) - A regularly updated collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
 - [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) - 
 - [SagerNet/sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple) - Experimental iOS/macOS client for sing-box
 - [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
