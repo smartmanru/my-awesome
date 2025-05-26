@@ -242,6 +242,7 @@
 - [openresty/openresty.org](https://github.com/openresty/openresty.org) - Code and data for the openresty.org site
 - [dg/texy](https://github.com/dg/texy) - Texy is a lightweight markup language with plain text formatting syntax engine.
 - [netology-code/guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
+- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -510,7 +511,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README
 - [znhv/ru-awesome-devops](https://github.com/znhv/ru-awesome-devops) - Список с актуальной документацией для DevOps
-- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [flipperdevices/flipper-hackathon-moscow](https://github.com/flipperdevices/flipper-hackathon-moscow) - Flipper Hackathon Moscow 2021
 - [netstalking-core/netstalking-osint](https://github.com/netstalking-core/netstalking-osint) - Коллекция материалов по OSINT для нетсталкинга
 - [OldBonhart/Osint-Resources](https://github.com/OldBonhart/Osint-Resources) - Data collected from publicly available sources to be used in an intelligence context
