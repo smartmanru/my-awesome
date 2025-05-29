@@ -245,7 +245,6 @@
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [rfoxxxyshit/html-template](https://github.com/rfoxxxyshit/html-template) - Тупа крутой темплейт карочи вот тут можно посмотреть
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [vikdiesel/admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard) - Free Bulma Admin Dashboard Template HTML + CSS/SCSS
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -708,6 +707,7 @@
 - [Dragon-Userbot/Dragon-Userbot](https://github.com/Dragon-Userbot/Dragon-Userbot) - Userbot for telegram with easiest installation
 - [mramorok/TGPars](https://github.com/mramorok/TGPars) - Free Telegram spamer, inviter and parser
 - [MasterGroosha/telegram-stats-demo](https://github.com/MasterGroosha/telegram-stats-demo) - [зеркало с GitLab] Тестовый бот со сбором статистики (InfluxDB + Grafana)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
 - [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
 - [qsniyg/rssit](https://github.com/qsniyg/rssit) - RSS Feed Generator
