@@ -1198,7 +1198,7 @@
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [pete911/commands](https://github.com/pete911/commands) - 
 - [znhv/ru-awesome-devops](https://github.com/znhv/ru-awesome-devops) - Список с актуальной документацией для DevOps
@@ -1385,7 +1385,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [metalmatze/alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - [deprecated] Bot for Prometheus' Alertmanager
@@ -2529,7 +2529,7 @@
 
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
-- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
