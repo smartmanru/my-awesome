@@ -98,6 +98,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jenkins](#jenkins)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -1162,6 +1163,12 @@
 ## jekyll 
 
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
+
+## jenkins 
+
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Vagrant, Puppet, Lambda, Python, Perl, Bash, Ruby, Golang, Java, Scala, Groo
+- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 
 ## jquery 
 
