@@ -7,7 +7,6 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [AppleScript](#applescript)
-- [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -62,10 +61,6 @@
 ## AppleScript 
 
 - [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection) - Various Automator and AppleScript workflow and scripts for simplifying life
-
-## AutoHotkey 
-
-- [xiaofen9/overkill](https://github.com/xiaofen9/overkill) - auto aiming
 
 ## Batchfile 
 
