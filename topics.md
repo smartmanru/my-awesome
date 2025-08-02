@@ -1592,7 +1592,7 @@
 - [larskanis/pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
 - [MamontenKa/YMS](https://github.com/MamontenKa/YMS) - Сбор и анализ статистики Яндекс Музыка
 - [vsecoder/ru-toxic-messages-classification](https://github.com/vsecoder/ru-toxic-messages-classification) - 🗃 Classification of toxic and neutral messages on russian
-- [LoginovIlya/vi-vim-graphical-cheat-sheet-ru](https://github.com/LoginovIlya/vi-vim-graphical-cheat-sheet-ru) - Русский перевод vi/vim graphical cheat sheet
+- [LoginovIlia/vi-vim-graphical-cheat-sheet-ru](https://github.com/LoginovIlia/vi-vim-graphical-cheat-sheet-ru) - Русский перевод vi/vim graphical cheat sheet
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [frgomes/bash-scripts](https://github.com/frgomes/bash-scripts) - A collection of useful shell scripts, for the lazy and impatient.
 - [pawelsikora/mkdocs-with-confluence](https://github.com/pawelsikora/mkdocs-with-confluence) - MkDocs plugin for uploading markdown documentation to Confluence via Confluence REST API
