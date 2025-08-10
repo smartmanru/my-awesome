@@ -1062,7 +1062,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [amanmj/PC-Remote-Control](https://github.com/amanmj/PC-Remote-Control) - A telegram bot to remotely control anyone's PC remotely through your phone/PC.
@@ -1821,6 +1820,7 @@
 - [purescript-contrib/pulp](https://github.com/purescript-contrib/pulp) - A build tool for PureScript projects
 - [CSSSR/csssr-project-template](https://github.com/CSSSR/csssr-project-template) - [deprecated] Шаблон проекта для быстрого старта.
 - [bauerjj/Android-Simple-Bluetooth-Example](https://github.com/bauerjj/Android-Simple-Bluetooth-Example) - Simple Android Bluetooth example to turn on/off radio and to view and connect with devices. Has associated code to connect to an Arduino.
+- [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 - [maxvinza/dns-rkn-mikrotic](https://github.com/maxvinza/dns-rkn-mikrotic) - Скрипты для автомотического внесения статических записей в dns-кэш микротика
 - [SpryServers/WireGuard-Scripts](https://github.com/SpryServers/WireGuard-Scripts) - 
