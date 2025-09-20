@@ -214,7 +214,6 @@
 - [pecigonzalo/docker-machine-vmwareworkstation](https://github.com/pecigonzalo/docker-machine-vmwareworkstation) - VMWare Workstation driver for Docker Machine https://github.com/docker/machine
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
-- [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
 - [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 
@@ -373,6 +372,7 @@
 - [enricostara/telegram.link](https://github.com/enricostara/telegram.link) - Telegram API library (javascript, node.js)
 - [get-a-clue/instagram_likebot](https://github.com/get-a-clue/instagram_likebot) - Instagram like bot example
 - [idoco/intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger
+- [m-messiah/xye-bot](https://github.com/m-messiah/xye-bot) - Бот Хуификатор
 - [botgram/botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
 - [kamikazechaser/ServerBot](https://github.com/kamikazechaser/ServerBot) - :bulb: A Telegram Bot For Checking Server Statistics And Information.
 - [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
