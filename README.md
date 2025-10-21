@@ -66,7 +66,6 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [iidanL/InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - New method of installation ANY windows iso without USB stick / CD-DVD.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
 
@@ -603,6 +602,7 @@
 - [baldsealion/Win-Debloat-Tools](https://github.com/baldsealion/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
 - [baldsealion/andrew-s-taylor-scripts](https://github.com/baldsealion/andrew-s-taylor-scripts) - Public Scripts and Apps from Andrew S Taylor
 - [Matalus/steamdeck-tips](https://github.com/Matalus/steamdeck-tips) - Wiki and files relevant to my Steam Deck tinkering
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 
