@@ -41,6 +41,7 @@
 - [code](#code)
 - [coding](#coding)
 - [computer-science](#computer-science)
+- [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [crawler](#crawler)
@@ -641,6 +642,10 @@
 - [zhashkevych/awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+
+## config 
+
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 
 ## continuous-integration 
 
