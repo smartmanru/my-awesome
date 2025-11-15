@@ -790,6 +790,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
@@ -928,7 +929,6 @@
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [out386/aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
