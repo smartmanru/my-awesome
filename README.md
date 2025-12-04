@@ -125,7 +125,7 @@
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [Sea-n/tdesktop](https://github.com/Sea-n/tdesktop) - Unofficial Telegreat Messaging app
 - [itsumma/itstelegram](https://github.com/itsumma/itstelegram) - Telegram Desktop messaging app
 
