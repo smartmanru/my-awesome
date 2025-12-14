@@ -936,7 +936,7 @@
 - [gram-js/gramjs](https://github.com/gram-js/gramjs) - NodeJS/Browser MTProto API Telegram client library,
 - [out386/aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [schickling/colorrado](https://github.com/schickling/colorrado) - Beautiful color gradients based on images
