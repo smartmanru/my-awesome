@@ -45,7 +45,6 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
@@ -618,6 +617,7 @@
 - [b31ngd3v/instagram-auto-dm](https://github.com/b31ngd3v/instagram-auto-dm) - Python Program To Send Automatic DMs
 - [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
 - [termuxprofessor/Telegram-Scraper-Adder](https://github.com/termuxprofessor/Telegram-Scraper-Adder) - Python Script For Scarpe Telegram Members From Another Group And Add That Members To Your Group.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xteam-cloner/AIU-USERBOT](https://github.com/xteam-cloner/AIU-USERBOT) - A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
@@ -900,10 +900,6 @@
 - [trevorndodds/dd-wrt-grafana](https://github.com/trevorndodds/dd-wrt-grafana) - 
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [doortts/is-alive-bot.sh](https://github.com/doortts/is-alive-bot.sh) - Server status check and Telegram message notification sending shell
-
-## Svelte 
-
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
