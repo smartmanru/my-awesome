@@ -212,6 +212,7 @@
 - [ui](#ui)
 - [userscript](#userscript)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -2411,7 +2412,6 @@
 
 ## telegram 
 
-- [sshrshnv/tgfeed](https://github.com/sshrshnv/tgfeed) - Read Telegram channels like a news feed.
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
 - [tm-a-t/AvatarEmojiBot](https://github.com/tm-a-t/AvatarEmojiBot) - Telegram bot. Generates custom emoji packs with avatars of group members
 - [Easterok/telegram-onboarding-kit](https://github.com/Easterok/telegram-onboarding-kit) - A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots
@@ -2612,6 +2612,11 @@
 ## vagrant 
 
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for AWS, GCP, Docker, CI/CD, Kubernetes, Terraform, Packer, Jenkins, CircleCI, GitHub Actions, Vagrant, Puppet, Lambda, Python, Perl, Bash, Ruby, Golang, Java, Scal
+
+## video 
+
+- [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection) - Various Automator and AppleScript workflow and scripts for simplifying life
+- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 
 ## vim 
 
