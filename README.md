@@ -230,6 +230,7 @@
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy) - Bash Academy - The Bash Guide
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mmkuznecov/queue_analysis](https://github.com/mmkuznecov/queue_analysis) - System for queue detection and control
 - [xintrea/mytetra_syncro](https://github.com/xintrea/mytetra_syncro) - Xintrea personal encyclopedy from MyTetra
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -420,7 +421,6 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 
 ## Makefile 
@@ -657,7 +657,6 @@
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
-- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 - [vitaliy-sk/keenetic-grafana-monitoring](https://github.com/vitaliy-sk/keenetic-grafana-monitoring) - Monitor Keenetic router with Grafana and InfluxDB
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [PGAndre/InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot) - 
@@ -773,6 +772,7 @@
 ## Ruby 
 
 - [larskanis/pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
