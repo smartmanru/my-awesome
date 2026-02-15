@@ -618,7 +618,6 @@
 - [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
 - [termuxprofessor/Telegram-Scraper-Adder](https://github.com/termuxprofessor/Telegram-Scraper-Adder) - Python Script For Scarpe Telegram Members From Another Group And Add That Members To Your Group.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [xteam-cloner/AIU-USERBOT](https://github.com/xteam-cloner/AIU-USERBOT) - A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [soldatov-ss/flibusta-telegram-bot](https://github.com/soldatov-ss/flibusta-telegram-bot) - Telegram bot for searching books in Flibusta
