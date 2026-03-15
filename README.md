@@ -540,7 +540,6 @@
 - [smartmanru/my-awesome](https://github.com/smartmanru/my-awesome) - 
 - [smartmanru/awesome-alice](https://github.com/smartmanru/awesome-alice) - Библиотеки и ресурсы для Яндекс.Диалогов
 - [smartmanru/awesome-adb](https://github.com/smartmanru/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
-- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [sameoldmadness/awesome-alice](https://github.com/sameoldmadness/awesome-alice) - Библиотеки и ресурсы для Яндекс.Диалогов
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -730,6 +729,7 @@
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [hauxir/imgpush](https://github.com/hauxir/imgpush) - Minimalist Self-hosted Image Service for user submitted images in your app
 - [smartmanru/informer](https://github.com/smartmanru/informer) - A Telegram Mass Surveillance Bot in Python
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
 - [nikandlv/postman-patcher](https://github.com/nikandlv/postman-patcher) - Allows postman to render javascript in preview
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
