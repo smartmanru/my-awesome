@@ -113,7 +113,6 @@
 - [Phobos-developers/Phobos](https://github.com/Phobos-developers/Phobos) - Ares-compatible C&C Red Alert 2: Yuri's Revenge engine extension
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
-- [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) - Bypass APK Signatures Verify & Integrity Check using Reflection
 - [Falldog/dcinja](https://github.com/Falldog/dcinja) - The smallest binary size of template engine, born for docker image
 - [Aseman-Land/QtAV](https://github.com/Aseman-Land/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg. High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops.
 - [Aseman-Land/qhttp](https://github.com/Aseman-Land/qhttp) - a light-weight and asynchronous HTTP library (both server & client) in Qt5 and c++14
@@ -258,7 +257,6 @@
 ## Java 
 
 - [Crazy-Marvin/Flashy](https://github.com/Crazy-Marvin/Flashy) - Simple & Privacy-Friendly Flashlight App
-- [aimardcr/APKSignReader](https://github.com/aimardcr/APKSignReader) - An android application to read signatures on installed apps.
 - [DrKLO/TelegramStickersImport](https://github.com/DrKLO/TelegramStickersImport) - 
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A multifunctional Android code editor library. (aka CodeEditor)
 - [brookwillow/ANCSReader](https://github.com/brookwillow/ANCSReader) - This is Android APP to use IOS ANCS service to receive or operate IOS notifications
@@ -345,7 +343,6 @@
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [joaomgcd/JoinDesktop](https://github.com/joaomgcd/JoinDesktop) - A desktop app for Join built in Electron
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
 - [smartmanru/puppeteer](https://github.com/smartmanru/puppeteer) - 
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
@@ -907,6 +904,7 @@
 - [ohueter/autokbisw](https://github.com/ohueter/autokbisw) - Automatic keyboard input language switching for macOS.
 - [saagarjha/VirtualApple](https://github.com/saagarjha/VirtualApple) - Work with macOS VMs using Virtualization
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## TSQL 
 
