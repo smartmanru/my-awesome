@@ -1663,9 +1663,6 @@
 - [Pointauc/pointauc_frontend](https://github.com/Pointauc/pointauc_frontend) - 
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [TermuxHackz/zimbot-v4](https://github.com/TermuxHackz/zimbot-v4) - WhatsApp Bot with rich features
-- [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
-- [termuxprofessor/Storm-Breaker](https://github.com/termuxprofessor/Storm-Breaker) - Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
-- [termuxprofessor/Telegram-Scraper-Adder](https://github.com/termuxprofessor/Telegram-Scraper-Adder) - Python Script For Scarpe Telegram Members From Another Group And Add That Members To Your Group.
 - [termuxd-com/Button-Customizer](https://github.com/termuxd-com/Button-Customizer) - Button Customizer for termux
 - [GeneticallyModifiedAlex/Templates](https://github.com/GeneticallyModifiedAlex/Templates) - The Templates that Alex Users in obsidian, no sensitive information is held here only the templates that need to be standard in all obsidian vaults
 - [frenck/action-home-assistant](https://github.com/frenck/action-home-assistant) - 🚀 Frenck's GitHub Action for running a Home Assistant Core configuration check
