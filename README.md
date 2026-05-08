@@ -135,7 +135,6 @@
 
 ## CSS 
 
-- [termuxprofessor/Storm-Breaker](https://github.com/termuxprofessor/Storm-Breaker) - Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
 - [Formicka/exchangerate.host](https://github.com/Formicka/exchangerate.host) - Exchange rates API is a simple and lightweight free service for current and historical foreign exchange rates & crypto exchange rates.
 - [netology-code/bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
 - [yakimka/python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
@@ -619,7 +618,6 @@
 - [Oxlac/MR.DM](https://github.com/Oxlac/MR.DM) - A quick and easy tool for automating your Instagram DMs.
 - [b31ngd3v/instagram-auto-dm](https://github.com/b31ngd3v/instagram-auto-dm) - Python Program To Send Automatic DMs
 - [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
-- [termuxprofessor/Telegram-Scraper-Adder](https://github.com/termuxprofessor/Telegram-Scraper-Adder) - Python Script For Scarpe Telegram Members From Another Group And Add That Members To Your Group.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
@@ -807,7 +805,6 @@
 
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [termuxprofessor/insfollow](https://github.com/termuxprofessor/insfollow) - Best Tool for Increase Instagram Follower.
 - [termuxd-com/Button-Customizer](https://github.com/termuxd-com/Button-Customizer) - Button Customizer for termux
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
 - [aw1cks/openconnect](https://github.com/aw1cks/openconnect) - OpenConnect VPN running in Docker.
