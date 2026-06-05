@@ -904,7 +904,7 @@
 
 ## Swift 
 
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [SagerNet/sing-box-for-apple](https://github.com/SagerNet/sing-box-for-apple) - Experimental iOS/macOS client for sing-box
 - [ohueter/autokbisw](https://github.com/ohueter/autokbisw) - Automatic keyboard input language switching for macOS.
 - [saagarjha/VirtualApple](https://github.com/saagarjha/VirtualApple) - Work with macOS VMs using Virtualization
