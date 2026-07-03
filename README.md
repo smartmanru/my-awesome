@@ -70,7 +70,7 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [iidanL/InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - New method of installation ANY windows iso without USB stick / CD-DVD.
+- [kintaro00/InstallWindowsWithoutUSB](https://github.com/kintaro00/InstallWindowsWithoutUSB) - New method of installation ANY windows iso without USB stick / CD-DVD.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
