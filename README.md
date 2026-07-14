@@ -299,6 +299,7 @@
 - [wheaney/breezy-desktop](https://github.com/wheaney/breezy-desktop) - XR productivity and gaming applications for Linux
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+- [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
 - [meh7an/Teleminal](https://github.com/meh7an/Teleminal) - Source code of t.me/TeleminalBot: A simple tool for managing servers using SSH connections. With it, you can also easily create connection messages to share with friends. You can also link a connectio
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [AlexeyBoiko/DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) - Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript.
@@ -788,7 +789,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
