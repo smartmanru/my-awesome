@@ -920,7 +920,7 @@
 ## TypeScript 
 
 - [Pointauc/pointauc_frontend](https://github.com/Pointauc/pointauc_frontend) - 
-- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
+- [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Смотрите видео на другом языке с закадровым переводом и субтитрами в любом браузере
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
