@@ -517,7 +517,6 @@
 - [pluresque/awesome-aiogram](https://github.com/pluresque/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources
 - [sfx101/awesome-docker](https://github.com/sfx101/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [ru-python-beginners/faq](https://github.com/ru-python-beginners/faq) - Русскоязычный краудсорсинговый проект помощи начинающим python разработчикам
@@ -714,6 +713,7 @@
 - [aiogram/bot](https://github.com/aiogram/bot) - This bot is used as example of usage aiogram framework and as admin-helper in our community chats.
 - [vkbottle/vkbottle](https://github.com/vkbottle/vkbottle) - Сustomizable asynchronous VK API framework
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [gonzula/rows](https://github.com/gonzula/rows) - A common, beautiful interface to tabular data, no matter the format
