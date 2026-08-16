@@ -78,7 +78,7 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-- [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 applications.
+- [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 apps
 - [dev-dsp/TelegramPrivateChatLeaks](https://github.com/dev-dsp/TelegramPrivateChatLeaks) - Tips how to find private, hidden, personal groups and channels
 - [Zackptg5/Keycheck](https://github.com/Zackptg5/Keycheck) - Keycheck binary from: https://github.com/sonyxperiadev/device-sony-common-init/tree/master/keycheck
 - [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
@@ -323,7 +323,6 @@
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [ekymo/homeRoughEditor](https://github.com/ekymo/homeRoughEditor) - Floorplan editor SVG to create houseplan and homeplan with Javascript for client
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
-- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [sindresorhus/super-regex](https://github.com/sindresorhus/super-regex) - Make a regular expression time out if it takes too long to execute
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -941,6 +940,7 @@
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
