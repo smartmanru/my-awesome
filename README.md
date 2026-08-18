@@ -829,7 +829,7 @@
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [ocochard/graphpath](https://github.com/ocochard/graphpath) - Graphpath generates an ASCII network diagram from the route table of a Unix/Linux
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [rtrouton/rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts) - Scripts to share
 - [saitamasahil/Pixel-Launcher-Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.
 - [vaporup/ssh-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient
