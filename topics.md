@@ -388,6 +388,7 @@
 
 ## automation 
 
+- [smartmanru/emias-medical-record-downloader](https://github.com/smartmanru/emias-medical-record-downloader) - Неофициальный Playwright-скрипт для автоматической выгрузки медицинских документов из временного гостевого доступа ЕМИАС: анализов, приёмов, исследований, госпитализаций, выписок, рецептов, справок и 
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
@@ -1701,6 +1702,7 @@
 
 ## nodejs 
 
+- [smartmanru/emias-medical-record-downloader](https://github.com/smartmanru/emias-medical-record-downloader) - Неофициальный Playwright-скрипт для автоматической выгрузки медицинских документов из временного гостевого доступа ЕМИАС: анализов, приёмов, исследований, госпитализаций, выписок, рецептов, справок и 
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
