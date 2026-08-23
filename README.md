@@ -298,6 +298,7 @@
 
 ## JavaScript 
 
+- [y13sint/FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
 - [smartmanru/emias-medical-record-downloader](https://github.com/smartmanru/emias-medical-record-downloader) - Неофициальный Playwright-скрипт для автоматической выгрузки медицинских документов из временного гостевого доступа ЕМИАС: анализов, приёмов, исследований, госпитализаций, выписок, рецептов, справок и 
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
@@ -461,6 +462,7 @@
 
 ## Others 
 
+- [md8-habibullah/top-github-repos-list](https://github.com/md8-habibullah/top-github-repos-list) - A curated list of top open-source GitHub repositories across various categories to help developers discover valuable projects and resources.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -589,7 +591,7 @@
 - [hhru/api](https://github.com/hhru/api) - HeadHunter API: документация и библиотеки
 - [zapret-info/z-i](https://github.com/zapret-info/z-i) - Register of Internet Addresses filtered in Russian Federation
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [abdelhai/awesome-bots](https://github.com/abdelhai/awesome-bots) - Awesome Links about bots.
 
 ## PHP 
@@ -634,6 +636,7 @@
 
 ## Python 
 
+- [nfrelink/telegram-scheduler-bot](https://github.com/nfrelink/telegram-scheduler-bot) - Personal bot for scheduling Telegram posts to channels.
 - [ShadowSlayer03/Post4U-Schedule-Social-Media-Posts](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) - An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex.
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
@@ -801,6 +804,7 @@
 
 ## Ruby 
 
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [larskanis/pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
 - [keepcosmos/terjira](https://github.com/keepcosmos/terjira) - Terjira is a very interactive and easy to use CLI tool for Jira.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
@@ -832,6 +836,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
@@ -947,6 +952,7 @@
 
 ## TypeScript 
 
+- [sersert/IncidentGPT](https://github.com/sersert/IncidentGPT) - IncidentGPT — AIOps-помощник для инцидентов: обогащает алерты метриками и K8s-контекстом, связывает каскад алертов в один инцидент и шлёт AI-разбор в Telegram.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
@@ -1020,6 +1026,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Easterok/telegram-onboarding-kit](https://github.com/Easterok/telegram-onboarding-kit) - A simple-to-use tool for crafting onboardings and paywalls for Telegram Bots
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
