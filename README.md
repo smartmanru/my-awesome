@@ -440,7 +440,6 @@
 
 ## Makefile 
 
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [deso-protocol/run](https://github.com/deso-protocol/run) - Run your own DeSo node
 
 ## Markdown 
@@ -522,6 +521,7 @@
 - [smartmanru/tools](https://github.com/smartmanru/tools) - Список полезных сервисов для разработчиков · 🛠 🦄 🧑‍💻
 - [bespoyasov/tools](https://github.com/bespoyasov/tools) - Список полезных сервисов для разработчиков.
 - [mjpieters/awesome-codemods](https://github.com/mjpieters/awesome-codemods) - Curated list of tools that can fix your code for you
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [smartmanru/adm_linux_ops_questions](https://github.com/smartmanru/adm_linux_ops_questions) - Репозиторий частых вопросов на собеседованиях на должность администратора Linux / DevOps
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф, включая подготовку к собеседованию
