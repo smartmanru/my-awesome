@@ -158,6 +158,7 @@
 
 ## Dart 
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
@@ -176,11 +177,10 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 - [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL/CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [jamescun/wg-api](https://github.com/jamescun/wg-api) - WG-API is a JSON-RPC Server for WireGuard
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [TomWright/mermaid-server](https://github.com/TomWright/mermaid-server) - Go implementation of a HTTP server to allow remote generation of mermaid-js diagrams without any pre-requisites installed locally.
 - [mishamyrt/keychron-adapter](https://github.com/mishamyrt/keychron-adapter) - 🎹 Keychron Desktop app
@@ -685,7 +685,7 @@
 - [parotikov/telegregator](https://github.com/parotikov/telegregator) - Channel agregator for Telegram based on python library Telethon
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
-- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🌊本平台深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡、英国等地的原版教材与教学大纲；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。
 - [vitaliy-sk/keenetic-grafana-monitoring](https://github.com/vitaliy-sk/keenetic-grafana-monitoring) - Monitor Keenetic router with Grafana and InfluxDB
 - [dw-0/kiauh](https://github.com/dw-0/kiauh) - Klipper Installation And Update Helper
 - [PGAndre/InvestAnalytics_bot](https://github.com/PGAndre/InvestAnalytics_bot) - 
@@ -818,7 +818,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
@@ -954,7 +954,7 @@
 - [sersert/IncidentGPT](https://github.com/sersert/IncidentGPT) - IncidentGPT — AIOps-помощник для инцидентов: обогащает алерты метриками и K8s-контекстом, связывает каскад алертов в один инцидент и шлёт AI-разбор в Telegram.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [Pointauc/pointauc_frontend](https://github.com/Pointauc/pointauc_frontend) - 
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Смотрите видео на другом языке с закадровым переводом и субтитрами в любом браузере
