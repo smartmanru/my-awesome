@@ -404,6 +404,7 @@
 
 ## awesome 
 
+- [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
@@ -465,6 +466,7 @@
 
 ## awesome-list 
 
+- [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [md8-habibullah/top-github-repos-list](https://github.com/md8-habibullah/top-github-repos-list) - A curated list of top open-source GitHub repositories across various categories to help developers discover valuable projects and resources.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -702,6 +704,7 @@
 
 ## cli 
 
+- [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
@@ -1411,6 +1414,7 @@
 
 ## kubernetes 
 
+- [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
@@ -1803,6 +1807,7 @@
 
 ## others 
 
+- [Horosheff/aphelia](https://github.com/Horosheff/aphelia) - Aphelia — Cursor plugin: vertical Reels 60–90s from any topic
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [sersert/IncidentGPT](https://github.com/sersert/IncidentGPT) - IncidentGPT — AIOps-помощник для инцидентов: обогащает алерты метриками и K8s-контекстом, связывает каскад алертов в один инцидент и шлёт AI-разбор в Telegram.
 - [nfrelink/telegram-scheduler-bot](https://github.com/nfrelink/telegram-scheduler-bot) - Personal bot for scheduling Telegram posts to channels.
