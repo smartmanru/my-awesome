@@ -172,6 +172,7 @@
 
 ## Go 
 
+- [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -461,6 +462,7 @@
 
 ## Others 
 
+- [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [md8-habibullah/top-github-repos-list](https://github.com/md8-habibullah/top-github-repos-list) - A curated list of top open-source GitHub repositories across various categories to help developers discover valuable projects and resources.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
@@ -635,6 +637,7 @@
 
 ## Python 
 
+- [Horosheff/aphelia](https://github.com/Horosheff/aphelia) - Aphelia — Cursor plugin: vertical Reels 60–90s from any topic
 - [nfrelink/telegram-scheduler-bot](https://github.com/nfrelink/telegram-scheduler-bot) - Personal bot for scheduling Telegram posts to channels.
 - [ShadowSlayer03/Post4U-Schedule-Social-Media-Posts](https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts) - An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex.
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
