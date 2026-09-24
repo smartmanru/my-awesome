@@ -555,7 +555,7 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [smartmanru/Androl4b](https://github.com/smartmanru/Androl4b) - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [smartmanru/banana-js](https://github.com/smartmanru/banana-js) - 
 - [smartmanru/sturdy-octo-barnacle](https://github.com/smartmanru/sturdy-octo-barnacle) - 
