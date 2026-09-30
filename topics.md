@@ -2056,7 +2056,7 @@
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [Vayu/libfuse-android](https://github.com/Vayu/libfuse-android) - libfuse patched to compile for android
 - [finnp/streams-editor](https://github.com/finnp/streams-editor) - prototype editor for creating runnable network graphs
-- [frontdevops/my-bash-config](https://github.com/frontdevops/my-bash-config) - My Shell configurations
+- [cvindex/my-bash-config](https://github.com/cvindex/my-bash-config) - My Shell configurations
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
