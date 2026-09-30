@@ -919,7 +919,7 @@
 - [smartmanru/nginx-admins-handbook](https://github.com/smartmanru/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [jamiescode/bash-menu-generator](https://github.com/jamiescode/bash-menu-generator) - A simple bash script that will generate menus
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [frontdevops/my-bash-config](https://github.com/frontdevops/my-bash-config) - My Shell configurations
+- [cvindex/my-bash-config](https://github.com/cvindex/my-bash-config) - My Shell configurations
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [davidgross/wireguard-scripts](https://github.com/davidgross/wireguard-scripts) - Wireguard Scripts - Mirror
 - [l-n-s/wireguard-install](https://github.com/l-n-s/wireguard-install) - WireGuard VPN server installer
