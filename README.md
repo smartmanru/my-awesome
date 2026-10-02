@@ -825,7 +825,7 @@
 - [cilki/goldboot](https://github.com/cilki/goldboot) - Build golden images with CI
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
+- [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE) - High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
 - [nikivdev/code](https://github.com/nikivdev/code) - 
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
