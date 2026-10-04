@@ -236,6 +236,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -2955,6 +2956,11 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
+
+## windows-11 
+
+- [MustardChef/WSAMagiskDelta](https://github.com/MustardChef/WSAMagiskDelta) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Magisk Delta and Google Play Store (OpenGApps/ MindTheGapps
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## wordpress 
 
