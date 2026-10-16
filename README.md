@@ -49,7 +49,6 @@
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
-- [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Visual Basic 6.0](#visual-basic-6.0)
@@ -717,7 +716,6 @@
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
 - [Turonk/infra_actions](https://github.com/Turonk/infra_actions) - Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
@@ -1006,10 +1004,6 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-
-## VBScript 
-
-- [MrKristofere/BatUtil](https://github.com/MrKristofere/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vala 
 
