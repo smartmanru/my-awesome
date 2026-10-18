@@ -956,7 +956,7 @@
 - [sersert/IncidentGPT](https://github.com/sersert/IncidentGPT) - IncidentGPT — AIOps-помощник для инцидентов: обогащает алерты метриками и K8s-контекстом, связывает каскад алертов в один инцидент и шлёт AI-разбор в Telegram.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [Pointauc/pointauc_frontend](https://github.com/Pointauc/pointauc_frontend) - 
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Смотрите видео на другом языке с закадровым переводом и субтитрами в любом браузере
