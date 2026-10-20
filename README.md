@@ -170,6 +170,7 @@
 ## Go 
 
 - [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl
+- [sersert/IncidentGPT](https://github.com/sersert/IncidentGPT) - IncidentGPT — AIOps-помощник для инцидентов: обогащает алерты метриками и K8s-контекстом, связывает каскад алертов в один инцидент и шлёт AI-разбор в Telegram.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
@@ -296,6 +297,7 @@
 
 ## JavaScript 
 
+- [KenGuru66/yandex-disk-rescue](https://github.com/KenGuru66/yandex-disk-rescue) - Спасите файлы с Яндекс Диска: весь Диск и фото из «безлимита» на свой диск или в Google Drive через rclone. Работает при ограничениях октября 2026.
 - [y13sint/FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
 - [smartmanru/emias-medical-record-downloader](https://github.com/smartmanru/emias-medical-record-downloader) - Неофициальный Playwright-скрипт для автоматической выгрузки медицинских документов из временного гостевого доступа ЕМИАС: анализов, приёмов, исследований, госпитализаций, выписок, рецептов, справок и 
 - [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API  (API Keys)
@@ -716,6 +718,7 @@
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
 - [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te
 - [Turonk/infra_actions](https://github.com/Turonk/infra_actions) - Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
@@ -953,7 +956,6 @@
 
 ## TypeScript 
 
-- [sersert/IncidentGPT](https://github.com/sersert/IncidentGPT) - IncidentGPT — AIOps-помощник для инцидентов: обогащает алерты метриками и K8s-контекстом, связывает каскад алертов в один инцидент и шлёт AI-разбор в Telegram.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) - ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
