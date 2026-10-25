@@ -725,7 +725,7 @@
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [wladich/page2feed](https://github.com/wladich/page2feed) - Monitor changes of any web page create RSS feed
-- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice and video calls in Telegram for Python
 - [harrypython/itsagramlive](https://github.com/harrypython/itsagramlive) - It's A Gram Live is a Python script that create a Instagram Live and provide you a rtmp server and stream key to streaming using sofwares like OBS-Studio.
 - [DarkCat09/python-scripts](https://github.com/DarkCat09/python-scripts) - Some useful python scripts
 - [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
