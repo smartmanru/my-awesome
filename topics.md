@@ -13,6 +13,7 @@
 - [ajax](#ajax)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [ansible](#ansible)
@@ -342,6 +343,10 @@
 - [tranleduy2000/ncalc](https://github.com/tranleduy2000/ncalc) - Power calculator for Android. Solve some problem algebra  and calculus.
 - [xSAVIKx/AndroidScreencast](https://github.com/xSAVIKx/AndroidScreencast) - View and control your android device on PC
 - [Sea-n/Android-TG-Bot](https://github.com/Sea-n/Android-TG-Bot) - Awesome Telegram Bot (Android Application)
+
+## android-app 
+
+- [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 
 ## angular 
 
