@@ -115,7 +115,7 @@
 
 - [maisvendoo/RRS](https://github.com/maisvendoo/RRS) - Russian Railway Simulator
 - [Phobos-developers/Phobos](https://github.com/Phobos-developers/Phobos) - Ares-compatible C&C Red Alert 2: Yuri's Revenge engine extension
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) - Bypass APK Signatures Verify & Integrity Check using Reflection
 - [Falldog/dcinja](https://github.com/Falldog/dcinja) - The smallest binary size of template engine, born for docker image
