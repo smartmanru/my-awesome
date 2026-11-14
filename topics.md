@@ -82,6 +82,7 @@
 - [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
@@ -402,7 +403,7 @@
 
 ## aspnet 
 
-- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 10 and newer.
 
 ## atom 
 
@@ -1058,6 +1059,10 @@
 
 - [aamnah/bash-scripts](https://github.com/aamnah/bash-scripts) - Bash scripts to get stuff done. Installing software, creating backups, custom functions, configurations etc.
 - [tux-00/routemanager](https://github.com/tux-00/routemanager) - Manage routes to deal with overlapping networks.
+
+## flipperzero 
+
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 
 ## flutter 
 
@@ -1786,6 +1791,7 @@
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
 - [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [MassonNN/masson-aiogram-template](https://github.com/MassonNN/masson-aiogram-template) - This is a scalable and functional template for any bots which will be made with aiogram 3.x
@@ -1926,7 +1932,6 @@
 - [redsymbol/linkcheck](https://github.com/redsymbol/linkcheck) - (pre-alpha - do not use) Check for broken links on website. Built for CI/devops automation
 - [UberGuidoZ/awesome-flipperzero](https://github.com/UberGuidoZ/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [UberGuidoZ/DownGit](https://github.com/UberGuidoZ/DownGit) - Create GitHub Resource Download Link
-- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [kolei/PiRIS](https://github.com/kolei/PiRIS) - Проектирование и Разработка Информационных Систем
 - [HackTricks-wiki/hacktricks-cloud](https://github.com/HackTricks-wiki/hacktricks-cloud) - 
 - [mmkuznecov/queue_analysis](https://github.com/mmkuznecov/queue_analysis) - System for queue detection and control
